@@ -1,0 +1,48 @@
+/* styles/footer.css */
+
+footer {
+  background-color: #000;
+  color: #fff;
+  border-top: 2px solid #ff4646;
+  /* box-shadow: 0 0 20px #ff4646; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  padding: 1rem 0;
+  z-index: 10;
+}
+
+/* Email + GitHub row */
+.footer-top {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.footer-top p {
+  font-size: 1.25rem;
+  margin: 0;
+}
+
+/* GitHub logo */
+.footer-top a {
+  transition: opacity 0.3s ease;
+}
+
+.footer-top a:hover {
+  opacity: 0.8;
+}
+
+.footer-top img {
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+}
+
+/* Copyright text */
+footer p:last-child {
+  font-size: 0.9rem;
+  margin: 0;
+}

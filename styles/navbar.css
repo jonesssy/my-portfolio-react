@@ -1,0 +1,51 @@
+/* styles/navbar.css */
+
+/* === Navbar container === */
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 50;
+}
+
+/* === Nav bar === */
+nav {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 2rem;
+  /* same as Tailwind gap-8 */
+  border-bottom: 2px solid #ff4646;
+  /* box-shadow: 0 0 20px #ff4646; */
+  background-color: #000000;
+  padding: 0.25rem 0;
+  /* same as py-1 */
+  transition: all 0.3s ease;
+}
+
+nav:hover {
+  box-shadow: 0 0 20px #ff4646;
+}
+
+/* === Nav buttons === */
+nav button {
+  text-transform: uppercase;
+  color: #ffffff;
+  font-size: 1.5rem;
+  /* same as text-2xl */
+  /* border-bottom: 2px solid #ff4646; */
+  padding: 0 2rem;
+  /* px-2 */
+  background-color: #000000;
+  transition: all 0.1s ease-in-out;
+  border-radius: 16px;
+  cursor: pointer;
+}
+
+/* === Hover effects === */
+nav button:hover {
+  transform: translateY(-2px);
+  background-color: #ff4646;
+}

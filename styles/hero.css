@@ -1,0 +1,64 @@
+/* === Hero Section === */
+.hero {
+    min-height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: left;
+    gap: 3rem;
+    padding: 2rem;
+    margin: 2rem 0;
+    background: linear-gradient(135deg, #1f1c2c, #928);
+}
+
+/* === Left Side (Image) === */
+.hero-image img {
+    width: 100%;
+    max-width: 500px;
+    aspect-ratio: 1 / 1;
+    /* ensures a perfect square even if width changes */
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid #ff4646;
+    box-shadow: 0 10px 80px rgba(114, 114, 114, 0.6);
+    transition: all 0.3s ease-in-out;
+}
+
+/* === Right Side (Text) === */
+.hero-text {
+    max-width: 400px;
+}
+
+.hero-text h1 {
+    margin: 0;
+    letter-spacing: 2px;
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: #ffffff;
+    text-transform: uppercase;
+    border-bottom: 3px solid #ff4646;
+    padding-bottom: 0.5rem;
+    text-align: start;
+    width: 100%;
+}
+
+.hero-text p {
+    margin-top: 10px;
+    color: #ffffff;
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+
+/* === Responsive layout === */
+@media (max-width: 768px) {
+    .hero {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .hero-text {
+        max-width: 90%;
+    }
+}

@@ -9,7 +9,7 @@ import Projects from "../components/Projects";
 import Footer from "../components/Footer";
 
 export default function Home() {
-  const sectionStyle = { maxWidth: 1100, margin: "0 auto", padding: "120px 20px 80px" }; // padding-top includes navbar + breathing room
+  const sectionStyle = { maxWidth: 1500, margin: "0 auto", padding: "0" }; // padding-top includes navbar + breathing room
 
   return (
     <>
