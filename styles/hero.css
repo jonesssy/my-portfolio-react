@@ -48,7 +48,7 @@
 .hero-text p {
     margin-top: 10px;
     color: #ffffff;
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     line-height: 1.5;
     text-align: start;
 }
@@ -63,4 +63,13 @@
     .hero-text {
         max-width: 90%;
     }
+}
+
+/* === Highlighted Name === */
+.highlight-name {
+    color: #ff4646;
+    font-size: 1.5rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
 }

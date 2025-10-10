@@ -17,9 +17,8 @@ export default function Hero() {
             <div className="hero-text">
                 <h1>Welcome</h1>
                 <p>
-                    I'm Joni Mitronen, and this is my portfolio.
-                    <br />
-                    Enjoy!
+                    I'm <span className="highlight-name">JONI MITRONEN</span>, and this is my portfolio.
+
                 </p>
             </div>
         </div>
