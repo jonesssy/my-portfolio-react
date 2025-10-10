@@ -2,9 +2,10 @@
 import React from "react";
 import '../styles/globals.css';
 import "../styles/navbar.css";
-import "../styles/hero.css"; // ✅ import your CSS
+import "../styles/hero.css";
 import "../styles/life.css";
 import "../styles/skills.css";
+import "../styles/passions.css";
 import "../styles/projects.css";
 import "../styles/footer.css";
 

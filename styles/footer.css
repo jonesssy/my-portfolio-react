@@ -11,6 +11,7 @@ footer {
   justify-content: center;
   gap: 20px;
   padding: 1rem 0;
+  margin-top: 5rem;
   z-index: 10;
 }
 
@@ -28,11 +29,12 @@ footer {
 
 /* GitHub logo */
 .footer-top a {
-  transition: opacity 0.3s ease;
+  transition: all 0.3s ease;
 }
 
 .footer-top a:hover {
   opacity: 0.8;
+  transform: rotate(20deg);
 }
 
 .footer-top img {

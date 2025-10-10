@@ -974,6 +974,16 @@ eval("\nObject.defineProperty(exports, \"__esModule\", ({\n    value: true\n}));
 "use strict";
 eval("\nObject.defineProperty(exports, \"__esModule\", ({\n    value: true\n}));\nObject.defineProperty(exports, \"warnOnce\", ({\n    enumerable: true,\n    get: function() {\n        return warnOnce;\n    }\n}));\nlet warnOnce = (_)=>{};\nif (true) {\n    const warnings = new Set();\n    warnOnce = (msg)=>{\n        if (!warnings.has(msg)) {\n            console.warn(msg);\n        }\n        warnings.add(msg);\n    };\n} //# sourceMappingURL=warn-once.js.map\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHBhZ2VzLWRpci1ub2RlKS8uL25vZGVfbW9kdWxlcy9uZXh0L2Rpc3Qvc2hhcmVkL2xpYi91dGlscy93YXJuLW9uY2UuanMiLCJtYXBwaW5ncyI6Ijs7Ozs0Q0FXU0E7OztlQUFBQTs7O0FBWFQsSUFBSUEsV0FBVyxDQUFDQyxLQUFlO0FBQy9CLElBQUlDLElBQW9CLEVBQW1CO0lBQ3pDLE1BQU1HLFdBQVcsSUFBSUM7SUFDckJOLFdBQVcsQ0FBQ087UUFDVixJQUFJLENBQUNGLFNBQVNHLEdBQUcsQ0FBQ0QsTUFBTTtZQUN0QkUsUUFBUUMsSUFBSSxDQUFDSDtRQUNmO1FBQ0FGLFNBQVNNLEdBQUcsQ0FBQ0o7SUFDZjtBQUNGIiwic291cmNlcyI6WyIvc3JjL3NoYXJlZC9saWIvdXRpbHMvd2Fybi1vbmNlLnRzIl0sInNvdXJjZXNDb250ZW50IjpbImxldCB3YXJuT25jZSA9IChfOiBzdHJpbmcpID0+IHt9XG5pZiAocHJvY2Vzcy5lbnYuTk9ERV9FTlYgIT09ICdwcm9kdWN0aW9uJykge1xuICBjb25zdCB3YXJuaW5ncyA9IG5ldyBTZXQ8c3RyaW5nPigpXG4gIHdhcm5PbmNlID0gKG1zZzogc3RyaW5nKSA9PiB7XG4gICAgaWYgKCF3YXJuaW5ncy5oYXMobXNnKSkge1xuICAgICAgY29uc29sZS53YXJuKG1zZylcbiAgICB9XG4gICAgd2FybmluZ3MuYWRkKG1zZylcbiAgfVxufVxuXG5leHBvcnQgeyB3YXJuT25jZSB9XG4iXSwibmFtZXMiOlsid2Fybk9uY2UiLCJfIiwicHJvY2VzcyIsImVudiIsIk5PREVfRU5WIiwid2FybmluZ3MiLCJTZXQiLCJtc2ciLCJoYXMiLCJjb25zb2xlIiwid2FybiIsImFkZCJdLCJpZ25vcmVMaXN0IjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(pages-dir-node)/./node_modules/next/dist/shared/lib/utils/warn-once.js\n");
 
+/***/ }),
+
+/***/ "(pages-dir-node)/./node_modules/next/document.js":
+/*!***************************************!*\
+  !*** ./node_modules/next/document.js ***!
+  \***************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__(/*! ./dist/pages/_document */ \"(pages-dir-node)/./node_modules/next/dist/pages/_document.js\")\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHBhZ2VzLWRpci1ub2RlKS8uL25vZGVfbW9kdWxlcy9uZXh0L2RvY3VtZW50LmpzIiwibWFwcGluZ3MiOiJBQUFBLGtJQUFrRCIsInNvdXJjZXMiOlsiL2hvbWUvam9uZXNzeS9wcm9qZWN0cy9teS1wb3J0Zm9saW8tcmVhY3Qvbm9kZV9tb2R1bGVzL25leHQvZG9jdW1lbnQuanMiXSwic291cmNlc0NvbnRlbnQiOlsibW9kdWxlLmV4cG9ydHMgPSByZXF1aXJlKCcuL2Rpc3QvcGFnZXMvX2RvY3VtZW50JylcbiJdLCJuYW1lcyI6W10sImlnbm9yZUxpc3QiOlswXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(pages-dir-node)/./node_modules/next/document.js\n");
+
 /***/ })
 
 };
