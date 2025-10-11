@@ -83,6 +83,7 @@
 .project-links a {
   font-size: 1.2rem;
   color: #6344d4;
+  text-decoration: underline;
   transition: color 0.3s ease;
 }
 
