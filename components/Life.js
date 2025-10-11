@@ -4,15 +4,15 @@ import React from "react";
 const lifeParagraphs = [
     {
         lead: "WHO AM I",
-        text: "well I am a final-year Business Information Technology student at Häme University of Applied Sciences. My goal is to transition into software development, particularly backend development, focusing on creating web and mobile applications."
+        text: " well I am a almost graduated Business Information Technology student at Häme University of Applied Sciences. My goal is to transition into software development, particularly backend development, focusing on creating web and mobile applications."
     },
     {
         lead: "CURRENTLY",
-        text: "during my studies, I have gained experience with several popular programming languages (JavaScript, Java, Python) and their applications. I am also familiar with various database solutions (MySQL, SQL, MongoDB) and can utilize them effectively in my programming. I strive to write modular, dynamic, and high-quality code that is easy to maintain and secure. In school projects, I have enjoyed leading teams, managing projects, and, of course, solving problems collaboratively. For project management, we have used industry-standard tools such as Git, GitHub, Jira, and Confluence."
+        text: "during my studies, I have gained experience with several popular programming languages and their applications. I am also familiar with various database solutions and can utilize them effectively in my programming. I strive to write modular, dynamic, and high-quality code that is easy to maintain and secure. In school projects, I have enjoyed leading teams, managing projects, and, of course, solving problems collaboratively. For project management, we have used industry-standard tools and other common practices involving workflow and coding."
     },
     {
         lead: "ALSO",
-        text: "I am a former electrician with six years of hands-on experience in technical work and participating in various projects. I hold an S2 electrical license and continue to maintain my skills by performing small-scale electrical installations for family and friends. One of my goals is to combine my previous expertise with my new knowledge — to develop automation solutions and add logical functionality to my installations, creating more efficient, eco-friendly, and intelligent solutions for households."
+        text: "I am a former electrician with seven years of hands-on experience in technical work and participating in various projects. I hold an S2 electrical license and continue to maintain my skills by performing small-scale electrical installations for family and friends. One of my goals is to combine my previous expertise with my new knowledge — to develop automation solutions and add logical functionality to my installations, creating more efficient, eco-friendly, and intelligent solutions for households."
     },
     {
         lead: "AS A COWORKER",
