@@ -18,7 +18,7 @@ export default function Footer() {
                     />
                 </a>
                 <a
-                    href="https://www.linkedin.com/"
+                    href="https://www.linkedin.com/in/joni-mitronen-56127138a/"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
