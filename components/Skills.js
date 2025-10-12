@@ -64,9 +64,9 @@ const skills = [
     { name: "Zigbee", icons: ["/media/images/zigbee.png"], type: "IoT" },
     { name: "Z-Wave", icons: ["/media/images/z-wave.png"], type: "IoT" },
 
-    // 💼 Expertises
-    { name: "Data Processing", icons: ["/media/images/coding.png"], type: "Expertise" },
-    { name: "Electrical Engineering", icons: ["/media/images/electrician.png", "/media/images/dali.png", "/media/images/knx.png"], type: "Expertise" },
+    // 💼 Experiences
+    { name: "Data Processing", icons: ["/media/images/coding.png"], type: "Experience" },
+    { name: "Electrical Engineering", icons: ["/media/images/electrician.png", "/media/images/dali.png", "/media/images/knx.png"], type: "Experience" },
 
     // 💬 Soft Skills
     { name: "SCRUM", icons: ["/media/images/scrum.png"], type: "Soft Skill" },

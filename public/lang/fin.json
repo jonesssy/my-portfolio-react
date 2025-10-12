@@ -346,80 +346,80 @@
                 "type": "IoT"
             },
             {
-                "name": "Data Processing",
+                "name": "Tietojenkäsittely",
                 "icons": [
                     "/media/images/coding.png"
                 ],
-                "type": "Asiantuntijuus"
+                "type": "Kokemus"
             },
             {
-                "name": "Electrical Engineering",
+                "name": "Sähkötekniikka",
                 "icons": [
                     "/media/images/electrician.png",
                     "/media/images/dali.png",
                     "/media/images/knx.png"
                 ],
-                "type": "Asiantuntijuus"
+                "type": "Kokemus"
             },
             {
                 "name": "SCRUM",
                 "icons": [
                     "/media/images/scrum.png"
                 ],
-                "type": "Pehmeä taito"
+                "type": "Kyky"
             },
             {
-                "name": "Leadership",
+                "name": "Johtajuus",
                 "icons": [
                     "/media/images/sergeant.png",
                     "/media/images/leadership.png"
                 ],
-                "type": "Pehmeä taito"
+                "type": "Kyky"
             },
             {
-                "name": "Teamwork",
+                "name": "Tiimityöskentely",
                 "icons": [
                     "/media/images/teamwork.png"
                 ],
-                "type": "Pehmeä taito"
+                "type": "Kyky"
             },
             {
-                "name": "Creativity",
+                "name": "Luovuus",
                 "icons": [
                     "/media/images/creativity.png"
                 ],
-                "type": "Pehmeä taito"
+                "type": "Kyky"
             },
             {
-                "name": "Organization",
+                "name": "Organisointi",
                 "icons": [
                     "/media/images/organization.png"
                 ],
-                "type": "Pehmeä taito"
+                "type": "Kyky"
             },
             {
-                "name": "Independence",
+                "name": "Itsenäisyys",
                 "icons": [
                     "/media/images/independence.png"
                 ],
-                "type": "Pehmeä taito"
+                "type": "Kyky"
             },
             {
-                "name": "Problem Solving",
+                "name": "Ongelmanratkaisu",
                 "icons": [
                     "/media/images/problem-solving.png"
                 ],
-                "type": "Pehmeä taito"
+                "type": "Kyky"
             },
             {
-                "name": "Finnish",
+                "name": "Suomi",
                 "icons": [
                     "/media/images/finland.png"
                 ],
                 "type": "Kieli"
             },
             {
-                "name": "English",
+                "name": "Englanti",
                 "icons": [
                     "/media/images/great-britain.png"
                 ],
@@ -449,6 +449,279 @@
                 "passion": "Kalastus",
                 "imgSrc": "/media/images/fishing.jpg",
                 "alt": "fishing"
+            }
+        ]
+    },
+    "projets": {
+        "title": "Projektit",
+        "projects": [
+            {
+                "project": "Elokuva arvostelu - RESTful API, Verkkosivusto & Mobiilisovellus",
+                "date": "4 / 2025",
+                "description": "Tämä oli yksi kouluprojekteistamme. Käytimme 'themoviedb'-APIa ja tallensimme elokuvat MongoDB-tietokantaan. Sitten käytimme Handlebarsia palvelinpuolen renderöityyn käyttöliittymään. Seuraavalla kurssilla meidän piti luoda mobiilisovellus, ja päätimme käyttää samaa backendia siihen. Teimme pieniä parannuksia API-päätepisteisiin ja loimme mobiilisovelluksen Android Studio, React Native ja Expo -teknologioilla.",
+                "codeLinks": [
+                    {
+                        "href": "https://github.com/joni23008/Backend-Web-Development",
+                        "text": "Backend-repositorio"
+                    },
+                    {
+                        "href": "https://github.com/Tupolaa/Mobile_project",
+                        "text": "Frontend-repositorio"
+                    }
+                ],
+                "extraLinks": [
+                    {
+                        "href": "https://www.themoviedb.org/",
+                        "text": "themoviedb - API"
+                    },
+                    {
+                        "href": "https://moviereview-472307.lm.r.appspot.com/",
+                        "text": "Demo"
+                    }
+                ],
+                "tech": [
+                    {
+                        "src": "/media/images/html.png",
+                        "alt": "html"
+                    },
+                    {
+                        "src": "/media/images/css.png",
+                        "alt": "css"
+                    },
+                    {
+                        "src": "/media/images/javascript.png",
+                        "alt": "javascript"
+                    },
+                    {
+                        "src": "/media/images/nodejs.png",
+                        "alt": "node.js"
+                    },
+                    {
+                        "src": "/media/images/expressjs.png",
+                        "alt": "express.js"
+                    },
+                    {
+                        "src": "/media/images/mongodb.png",
+                        "alt": "mongodb"
+                    },
+                    {
+                        "src": "/media/images/handlebars.png",
+                        "alt": "handlebars"
+                    },
+                    {
+                        "src": "/media/images/react.png",
+                        "alt": "react"
+                    },
+                    {
+                        "src": "/media/images/expo.png",
+                        "alt": "expo"
+                    },
+                    {
+                        "src": "/media/images/android.png",
+                        "alt": "android"
+                    }
+                ]
+            },
+            {
+                "project": "Snake - Peli",
+                "date": "3 / 2025",
+                "description": "Tämä oli yksi koulutehtävistäni, jossa meidän piti luoda projekti, joka esittelee JavaScript-osaamistamme. Keksin itse pelin graafiset suunnittelut ja tein ne Paint-ohjelmalla.",
+                "codeLinks": [
+                    {
+                        "href": "https://github.com/jonesssy/Snake",
+                        "text": "Repositorio"
+                    }
+                ],
+                "tech": [
+                    {
+                        "src": "/media/images/html.png",
+                        "alt": "html"
+                    },
+                    {
+                        "src": "/media/images/css.png",
+                        "alt": "css"
+                    },
+                    {
+                        "src": "/media/images/javascript.png",
+                        "alt": "javascript"
+                    }
+                ]
+            },
+            {
+                "project": "Laskutuksen automatisointi UIPathilla ja Robot Frameworkilla fiktiiviselle yritykselle X",
+                "date": "3 / 2025",
+                "description": "Tässä kouluprojektissa automatisoimme skannattujen PDF-laskujen käsittelyn käyttämällä UiPathia ja Robot Frameworkia tietojen poimintaan, validoimiseen ja tallentamiseen MySQL-tietokantaan, varmistaen tietojen tarkkuuden, kuten IBANit, viitenumerot ja summat.",
+                "codeLinks": [
+                    {
+                        "href": "https://github.com/joni23008/Ohjelmistorobotiikka-ja--automaatio--Joni-ja-Vilho-",
+                        "text": "Repositorio"
+                    }
+                ],
+                "tech": [
+                    {
+                        "src": "/media/images/robot-framework.png",
+                        "alt": "robot framework"
+                    },
+                    {
+                        "src": "/media/images/uipath.png",
+                        "alt": "uipath"
+                    },
+                    {
+                        "src": "/media/images/visual-studio.png",
+                        "alt": "visual studio"
+                    },
+                    {
+                        "src": "/media/images/mysql-2.png",
+                        "alt": "mysql"
+                    }
+                ]
+            },
+            {
+                "project": "Oma Portfolio - Verkkosivusto",
+                "date": "12 / 2024",
+                "description": "Tämä portfoliohanke kehitti merkittävästi taitojani HTML:ssä, CSS:ssä ja JavaScriptissä, keskittyen responsiiviseen suunnitteluun ja interaktiivisuuteen. Se on äskettäin refaktoroitu Reactin käyttöön.",
+                "codeLinks": [
+                    {
+                        "href": "https://github.com/jonesssy/My-Portfolio",
+                        "text": "Repositorio"
+                    }
+                ],
+                "tech": [
+                    {
+                        "src": "/media/images/html.png",
+                        "alt": "html"
+                    },
+                    {
+                        "src": "/media/images/css.png",
+                        "alt": "css"
+                    },
+                    {
+                        "src": "/media/images/javascript.png",
+                        "alt": "javascript"
+                    },
+                    {
+                        "src": "/media/images/react.png",
+                        "alt": "react"
+                    }
+                ]
+            },
+            {
+                "project": "Kivi, Sakset & Paperi - Peli",
+                "date": "10 / 2024",
+                "description": "Tässä projektissa on MySQL-tietokanta Docker-kontissa backendissä, ja pelin logiikka on toteutettu Pythonilla. Se on klassinen Kivi, Sakset & Paperi -peli, mutta parannettuna pistetaululla, johon kymmenen parasta pelaajaa voi tallentaa nimikirjaimensa. Projekti tarjosi myös mahdollisuuden tutustua yksikkötestaukseen, mikä teki siitä arvokkaan oppimiskokemuksen.",
+                "codeLinks": [
+                    {
+                        "href": "https://github.com/jonesssy/Rock-Paper---Scissors",
+                        "text": "Repositorio"
+                    }
+                ],
+                "tech": [
+                    {
+                        "src": "/media/images/python.png",
+                        "alt": "python"
+                    },
+                    {
+                        "src": "/media/images/mysql-2.png",
+                        "alt": "mysql"
+                    },
+                    {
+                        "src": "/media/images/docker.png",
+                        "alt": "docker"
+                    }
+                ]
+            },
+            {
+                "project": "Downloads-kansion järjestäjä - Automaatioskripti",
+                "date": "10 / 2024",
+                "description": "Tämän skriptin toimivuutta oli ilo nähdä, kun se oli täysin integroitu Task Schedulerin kanssa. Se valvoo jatkuvasti Downloads-kansiotani ja järjestää tiedostot omiin kansioihinsa. Projekti on käytännöllinen ratkaisu työnkulun sujuvoittamiseen, jolloin voin keskittyä tärkeämpiin tehtäviin ja jättää toistuvan organisoinnin skriptin hoidettavaksi. Suunnittelen kehittäväni lisää vastaavia automaatioskriptejä tuottavuuden lisäämiseksi.",
+                "codeLinks": [
+                    {
+                        "href": "https://github.com/jonesssy/Downloads-Organizer",
+                        "text": "Repositorio"
+                    }
+                ],
+                "tech": [
+                    {
+                        "src": "/media/images/python.png",
+                        "alt": "python"
+                    }
+                ]
+            },
+            {
+                "project": "RESTful API - Lattialämmityskaapelilaskuri - JAVA",
+                "date": "9 / 2024",
+                "description": "Sähköasentajakokemukseni pohjalta loin tämän projektin yksinkertaistamaan lattialämmityskaapelin valintaa. Käyttämällä Javaa, Spring Bootia ja MySQL-tietokantaa Docker-kontissa, kehittelin backend-järjestelmän, johon lisättiin frontend HTML:llä, CSS:llä ja JavaScriptillä. Työkalu mahdollistaa käyttäjälle alueen mittojen, asennustapojen ja tehovaatimusten syöttämisen ja antaa kaapelisuosituksen Pistesarjat-kaapeleiden perusteella. Se poistaa manuaalisen laskennan tarpeen, tehden prosessista tehokkaan ja käyttäjäystävällisen.",
+                "codeLinks": [
+                    {
+                        "href": "https://github.com/jonesssy/Floorheating-Cable-Calculator",
+                        "text": "Repositorio"
+                    }
+                ],
+                "extraLinks": [
+                    {
+                        "href": "https://pistesarjat.fi/collections/lattialammityskaapelit",
+                        "text": "Pistesarjat"
+                    }
+                ],
+                "tech": [
+                    {
+                        "src": "/media/images/java.png",
+                        "alt": "java"
+                    },
+                    {
+                        "src": "/media/images/spring-boot.png",
+                        "alt": "spring boot"
+                    },
+                    {
+                        "src": "/media/images/mysql-2.png",
+                        "alt": "mysql"
+                    },
+                    {
+                        "src": "/media/images/docker.png",
+                        "alt": "docker"
+                    },
+                    {
+                        "src": "/media/images/html.png",
+                        "alt": "html"
+                    },
+                    {
+                        "src": "/media/images/css.png",
+                        "alt": "css"
+                    },
+                    {
+                        "src": "/media/images/javascript.png",
+                        "alt": "javascript"
+                    }
+                ]
+            },
+            {
+                "project": "Lego EV3 Line Follower -robotti",
+                "date": "4 / 2024",
+                "description": "Tässä projektissa tiimimme kehitti LeJOS EV3 Lego -linjaseuraajarobotin, joka on ohjelmoitu Javalla ja kommunikoituu Eclipse-pohjaisen RESTful-palvelimen kanssa. Projekti onnistui käyttämään väri- ja ultraäänisensoreita linjan seurannassa ja esteiden välttämisessä, integroimaan näppäimistön ohjauksen ja musiikin toiston, sekä osoittamaan vahvaa olio-ohjelmointisuunnittelua ja suorituskykyä kurssiradalla.",
+                "codeLinks": [
+                    {
+                        "href": "https://github.com/kl135/palikka-posse-project",
+                        "text": "Robot-repositorio"
+                    },
+                    {
+                        "href": "https://github.com/NikoLaaks/palikka-posse-server",
+                        "text": "Server-repositorio"
+                    }
+                ],
+                "tech": [
+                    {
+                        "src": "/media/images/eclipse.svg",
+                        "alt": "eclipse"
+                    },
+                    {
+                        "src": "/media/images/java.png",
+                        "alt": "java"
+                    },
+                    {
+                        "src": "/media/images/html.png",
+                        "alt": "html"
+                    }
+                ]
             }
         ]
     }

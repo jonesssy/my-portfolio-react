@@ -350,7 +350,7 @@
                 "icons": [
                     "/media/images/coding.png"
                 ],
-                "type": "Expertise"
+                "type": "Experience"
             },
             {
                 "name": "Electrical Engineering",
@@ -359,7 +359,7 @@
                     "/media/images/dali.png",
                     "/media/images/knx.png"
                 ],
-                "type": "Expertise"
+                "type": "Experience"
             },
             {
                 "name": "SCRUM",
