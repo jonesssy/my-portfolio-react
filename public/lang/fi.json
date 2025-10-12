@@ -10,7 +10,7 @@
         "welcome": "Tervetuloa",
         "p1": "Minä olen ",
         "name": "JONI MITRONEN",
-        "p2": ", ja tämä on portfoliosivustoni. Nautinnollista selausta!"
+        "p2": ", ja tämä on portfolioni. Nautinnollista selausta!"
     },
     "life": {
         "title": "Elämä",
@@ -452,7 +452,7 @@
             }
         ]
     },
-    "projets": {
+    "projects": {
         "title": "Projektit",
         "projects": [
             {

@@ -98,3 +98,23 @@ nav button:hover {
     padding: 0.5rem 1rem;
   }
 }
+
+.lang-buttons {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.lang-buttons button {
+  background: none;
+  color: white;
+  border: 1px solid #ff4646;
+  padding: 0.25rem 0.75rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.lang-buttons button:hover,
+.lang-buttons button.active {
+  background-color: #ff4646;
+}
