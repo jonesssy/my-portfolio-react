@@ -1,0 +1,455 @@
+{
+    "navbar": [
+        "koti",
+        "elämä",
+        "taidot",
+        "intohimot",
+        "projektit"
+    ],
+    "hero": {
+        "welcome": "Tervetuloa",
+        "p1": "Minä olen ",
+        "name": "JONI MITRONEN",
+        "p2": ", ja tämä on portfoliosivustoni. Nautinnollista selausta!"
+    },
+    "life": {
+        "title": "Elämä",
+        "paragraphs": [
+            {
+                "lead": "KUKA MINÄ OLEN",
+                "text": "no minä olen pian valmistuva tradenomiopiskelija Hämeen ammattikorkeakoulusta, vahvalla opintomenestyksellä (keskiarvo 4,58). Tavoitteenani on siirtyä ohjelmistokehityksen pariin, erityisesti backend-puolelle, kehittämään web- ja mobiilisovelluksia."
+            },
+            {
+                "lead": "TÄLLÄ HETKELLÄ",
+                "text": "minulle on jo kertynyt kokemusta suosituimmista ohjelmointikielistä ja niiden käyttötarkoituksista opintojeni aikana. Tunnistan myös erilaiset tietokantaratkaisut ja kykenen hyödyntämään niitä ohjelmoinnissani. Pyrin koodaamaan modulaarista, dynaamista ja laadukasta koodia, jota on helppo ylläpitää ja on turvallista. Kouluprojekteissa nautin tiimin vetämisestä ja projektinhallinnasta, sekä tietenkin ongelmien ratkaisusta yhteistoimin. Olemme käyttäneet projektinhallinnassa alalla yleisesti käytettyjä työkaluja ja muita yleisiä käytäntöjä työnkulun ja koodauksen hallintaan."
+            },
+            {
+                "lead": "LISÄKSI",
+                "text": "olen myös entinen sähköasentaja, jolla on seitsemän vuoden käytännön kokemus teknisestä työstä ja toimimisesta erilaisissa projekteissa. Minulla on S2-luvat ja ylläpidän taitojani tekemällä pienimuotoisia sähköasennuksia sukulaisille ja ystäville. Yhtenä tavoitteenani on yhdistää vanhaa osaamistani uuden oppimani kanssa — kehittää automaatioratkaisuja ja lisätä logiikkaa asennuksiini, jotta voisin luoda entistä tehokkaampia, ekologisempia ja älykkäämpiä ratkaisuja kotitalouksiin."
+            },
+            {
+                "lead": "TYÖKAVERIANA",
+                "text": "minua kuvaillaan työssäni tarkkana, järjestelmällisenä ja ratkaisukeskeisenä tiimipelaajana, jolla on kokemusta sekä tiimien johtamisesta että itsenäisestä työskentelystä. Uskon jatkuvaan oppimiseen ja minua motivoi uuden teknologian soveltaminen tehokkaisiin ja käytännöllisiin ratkaisuihin."
+            },
+            {
+                "lead": "VAPAA-AJALLANI",
+                "text": "olen aktiivinen persoona, joka saa energiaa liikunnasta, erityisesti brasilialaisesta jiu-jitsusta. Nautin myös lenkkeilystä ja luonnonrauhasta perheeni kanssa. Kesäisin festarikaudella minut voi löytää moshpitistä tai rentoutumasta mökillä."
+            }
+        ]
+    },
+    "skills": {
+        "title": "Taidot",
+        "skills": [
+            {
+                "name": "JavaScript",
+                "type": "Ohjelmointikieli"
+            },
+            {
+                "name": "Java",
+                "icons": [
+                    "/media/images/java.png"
+                ],
+                "type": "Ohjelmointikieli"
+            },
+            {
+                "name": "Python",
+                "icons": [
+                    "/media/images/python.png"
+                ],
+                "type": "Ohjelmointikieli"
+            },
+            {
+                "name": "PHP",
+                "icons": [
+                    "/media/images/php.png"
+                ],
+                "type": "Ohjelmointikieli"
+            },
+            {
+                "name": "SQL",
+                "icons": [
+                    "/media/images/sql.png"
+                ],
+                "type": "Ohjelmointikieli"
+            },
+            {
+                "name": "Express.js",
+                "icons": [
+                    "/media/images/expressjs.png"
+                ],
+                "type": "Framework"
+            },
+            {
+                "name": "Java Spring Boot",
+                "icons": [
+                    "/media/images/spring-boot.png"
+                ],
+                "type": "Framework"
+            },
+            {
+                "name": "React (CSR)",
+                "icons": [
+                    "/media/images/react.png"
+                ],
+                "type": "Framework"
+            },
+            {
+                "name": "React Native",
+                "icons": [
+                    "/media/images/react.png"
+                ],
+                "type": "Framework"
+            },
+            {
+                "name": "Handlebars (SSR)",
+                "icons": [
+                    "/media/images/handlebars.png"
+                ],
+                "type": "Framework"
+            },
+            {
+                "name": "Node.js",
+                "icons": [
+                    "/media/images/nodejs.png"
+                ],
+                "type": "Framework"
+            },
+            {
+                "name": "Expo",
+                "icons": [
+                    "/media/images/expo.png"
+                ],
+                "type": "Framework"
+            },
+            {
+                "name": "WordPress",
+                "icons": [
+                    "/media/images/wordpress.png"
+                ],
+                "type": "Framework"
+            },
+            {
+                "name": "Robot Framework",
+                "icons": [
+                    "/media/images/robot-framework.png"
+                ],
+                "type": "Framework"
+            },
+            {
+                "name": "MySQL",
+                "icons": [
+                    "/media/images/mysql-2.png"
+                ],
+                "type": "Tietokanta"
+            },
+            {
+                "name": "MongoDB",
+                "icons": [
+                    "/media/images/mongodb.png"
+                ],
+                "type": "Tietokanta"
+            },
+            {
+                "name": "Postman",
+                "icons": [
+                    "/media/images/postman.png"
+                ],
+                "type": "Työkalu"
+            },
+            {
+                "name": "Git",
+                "icons": [
+                    "/media/images/git.png"
+                ],
+                "type": "Työkalu"
+            },
+            {
+                "name": "GitHub",
+                "icons": [
+                    "/media/images/github-2.png"
+                ],
+                "type": "Työkalu"
+            },
+            {
+                "name": "Visual Studio Code",
+                "icons": [
+                    "/media/images/visual-studio-code.png"
+                ],
+                "type": "Työkalu"
+            },
+            {
+                "name": "Visual Studio",
+                "icons": [
+                    "/media/images/visual-studio.png"
+                ],
+                "type": "Työkalu"
+            },
+            {
+                "name": "Eclipse",
+                "icons": [
+                    "/media/images/eclipse.svg"
+                ],
+                "type": "Työkalu"
+            },
+            {
+                "name": "Android Studio",
+                "icons": [
+                    "/media/images/android.png"
+                ],
+                "type": "Työkalu"
+            },
+            {
+                "name": "Docker",
+                "icons": [
+                    "/media/images/docker.png"
+                ],
+                "type": "Työkalu"
+            },
+            {
+                "name": "VirtualBox",
+                "icons": [
+                    "/media/images/virtualbox.png"
+                ],
+                "type": "Työkalu"
+            },
+            {
+                "name": "GitHub Copilot",
+                "icons": [
+                    "/media/images/copilot.png"
+                ],
+                "type": "Työkalu"
+            },
+            {
+                "name": "ChatGPT",
+                "icons": [
+                    "/media/images/chatgpt.png"
+                ],
+                "type": "Työkalu"
+            },
+            {
+                "name": "UiPath",
+                "icons": [
+                    "/media/images/uipath.png"
+                ],
+                "type": "Työkalu"
+            },
+            {
+                "name": "Google Cloud",
+                "icons": [
+                    "/media/images/googlecloud.png"
+                ],
+                "type": "Pilvipalvelu"
+            },
+            {
+                "name": "Railway",
+                "icons": [
+                    "/media/images/railway.png"
+                ],
+                "type": "Pilvipalvelu"
+            },
+            {
+                "name": "Vercel",
+                "icons": [
+                    "/media/images/vercel.svg"
+                ],
+                "type": "Pilvipalvelu"
+            },
+            {
+                "name": "Dreamhost",
+                "icons": [
+                    "/media/images/dreamhost.png"
+                ],
+                "type": "Pilvipalvelu"
+            },
+            {
+                "name": "Windows 10",
+                "icons": [
+                    "/media/images/win10.png"
+                ],
+                "type": "Käyttöjärjestelmä"
+            },
+            {
+                "name": "Windows 11",
+                "icons": [
+                    "/media/images/win11.png"
+                ],
+                "type": "Käyttöjärjestelmä"
+            },
+            {
+                "name": "Linux Ubuntu",
+                "icons": [
+                    "/media/images/ubuntu.png"
+                ],
+                "type": "Käyttöjärjestelmä"
+            },
+            {
+                "name": "Linux Ubuntu Server",
+                "icons": [
+                    "/media/images/ubuntu.png"
+                ],
+                "type": "Käyttöjärjestelmä"
+            },
+            {
+                "name": "Jira",
+                "icons": [
+                    "/media/images/jira.png"
+                ],
+                "type": "Projektinhallinta"
+            },
+            {
+                "name": "Confluence",
+                "icons": [
+                    "/media/images/confluence.png"
+                ],
+                "type": "Projektinhallinta"
+            },
+            {
+                "name": "HTML",
+                "icons": [
+                    "/media/images/html.png"
+                ],
+                "type": "Web-teknologia"
+            },
+            {
+                "name": "CSS",
+                "icons": [
+                    "/media/images/css.png"
+                ],
+                "type": "Web-teknologia"
+            },
+            {
+                "name": "APIs",
+                "icons": [
+                    "/media/images/curlys.png"
+                ],
+                "type": "Web-teknologia"
+            },
+            {
+                "name": "Home Assistant",
+                "icons": [
+                    "/media/images/home-assistant.png"
+                ],
+                "type": "IoT"
+            },
+            {
+                "name": "Zigbee",
+                "icons": [
+                    "/media/images/zigbee.png"
+                ],
+                "type": "IoT"
+            },
+            {
+                "name": "Z-Wave",
+                "icons": [
+                    "/media/images/z-wave.png"
+                ],
+                "type": "IoT"
+            },
+            {
+                "name": "Data Processing",
+                "icons": [
+                    "/media/images/coding.png"
+                ],
+                "type": "Asiantuntijuus"
+            },
+            {
+                "name": "Electrical Engineering",
+                "icons": [
+                    "/media/images/electrician.png",
+                    "/media/images/dali.png",
+                    "/media/images/knx.png"
+                ],
+                "type": "Asiantuntijuus"
+            },
+            {
+                "name": "SCRUM",
+                "icons": [
+                    "/media/images/scrum.png"
+                ],
+                "type": "Pehmeä taito"
+            },
+            {
+                "name": "Leadership",
+                "icons": [
+                    "/media/images/sergeant.png",
+                    "/media/images/leadership.png"
+                ],
+                "type": "Pehmeä taito"
+            },
+            {
+                "name": "Teamwork",
+                "icons": [
+                    "/media/images/teamwork.png"
+                ],
+                "type": "Pehmeä taito"
+            },
+            {
+                "name": "Creativity",
+                "icons": [
+                    "/media/images/creativity.png"
+                ],
+                "type": "Pehmeä taito"
+            },
+            {
+                "name": "Organization",
+                "icons": [
+                    "/media/images/organization.png"
+                ],
+                "type": "Pehmeä taito"
+            },
+            {
+                "name": "Independence",
+                "icons": [
+                    "/media/images/independence.png"
+                ],
+                "type": "Pehmeä taito"
+            },
+            {
+                "name": "Problem Solving",
+                "icons": [
+                    "/media/images/problem-solving.png"
+                ],
+                "type": "Pehmeä taito"
+            },
+            {
+                "name": "Finnish",
+                "icons": [
+                    "/media/images/finland.png"
+                ],
+                "type": "Kieli"
+            },
+            {
+                "name": "English",
+                "icons": [
+                    "/media/images/great-britain.png"
+                ],
+                "type": "Kieli"
+            }
+        ]
+    },
+    "passions": {
+        "title": "Intohimot",
+        "passions": [
+            {
+                "passion": "Ohjelmointi",
+                "imgSrc": "/media/images/coding.jpg",
+                "alt": "coding"
+            },
+            {
+                "passion": "Brazilian Jiu-Jitsu",
+                "imgSrc": "/media/images/bjj.png",
+                "alt": "bjj"
+            },
+            {
+                "passion": "Musiikki",
+                "imgSrc": "/media/images/music.jpg",
+                "alt": "music"
+            },
+            {
+                "passion": "Kalastus",
+                "imgSrc": "/media/images/fishing.jpg",
+                "alt": "fishing"
+            }
+        ]
+    }
+}

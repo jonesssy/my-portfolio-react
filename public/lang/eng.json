@@ -1,0 +1,728 @@
+{
+    "navbar": [
+        "home",
+        "life",
+        "skills",
+        "passions",
+        "projects"
+    ],
+    "hero": {
+        "welcome": "Welcome",
+        "p1": "I'm ",
+        "name": "JONI MITRONEN",
+        "p2": ", and this is my portfolio. Enjoy!"
+    },
+    "life": {
+        "title": "Life",
+        "paragraphs": [
+            {
+                "lead": "WHO AM I",
+                "text": "well I am a soon to graduate Business Information Technology student at Häme University of Applied Sciences, with strong academic performance (avg 4.58). My goal is to transition into software development, particularly backend development, focusing on creating web and mobile applications."
+            },
+            {
+                "lead": "CURRENTLY",
+                "text": "during my studies, I have gained experience with several popular programming languages and their applications. I am also familiar with various database solutions and can utilize them effectively in my programming. I strive to write modular, dynamic, and high-quality code that is easy to maintain and secure. In school projects, I have enjoyed leading teams, managing projects, and, of course, solving problems collaboratively. For project management, we have used industry-standard tools and other common practices involving workflow and coding."
+            },
+            {
+                "lead": "ALSO",
+                "text": "I am a former electrician with seven years of hands-on experience in technical work and participating in various projects. I hold an S2 electrical license and continue to maintain my skills by performing small-scale electrical installations for family and friends. One of my goals is to combine my previous expertise with my new knowledge — to develop automation solutions and add logical functionality to my installations, creating more efficient, eco-friendly, and intelligent solutions for households."
+            },
+            {
+                "lead": "AS A COWORKER",
+                "text": "I am described as precise, organized, and solution-oriented — a team player with experience in both leadership and independent work. I believe in continuous learning and am motivated by applying new technologies to create efficient and practical solutions."
+            },
+            {
+                "lead": "IN MY FREETIME",
+                "text": "I am an active person who gains energy from physical activity, especially Brazilian jiu-jitsu. I also enjoy running and spending time in nature with my family. During the summer festival season, you can often find me in the mosh pit or relaxing at the cottage."
+            }
+        ]
+    },
+    "skills": {
+        "title": "Skills",
+        "skills": [
+            {
+                "name": "JavaScript",
+                "type": "Programming Language"
+            },
+            {
+                "name": "Java",
+                "icons": [
+                    "/media/images/java.png"
+                ],
+                "type": "Programming Language"
+            },
+            {
+                "name": "Python",
+                "icons": [
+                    "/media/images/python.png"
+                ],
+                "type": "Programming Language"
+            },
+            {
+                "name": "PHP",
+                "icons": [
+                    "/media/images/php.png"
+                ],
+                "type": "Programming Language"
+            },
+            {
+                "name": "SQL",
+                "icons": [
+                    "/media/images/sql.png"
+                ],
+                "type": "Programming Language"
+            },
+            {
+                "name": "Express.js",
+                "icons": [
+                    "/media/images/expressjs.png"
+                ],
+                "type": "Framework"
+            },
+            {
+                "name": "Java Spring Boot",
+                "icons": [
+                    "/media/images/spring-boot.png"
+                ],
+                "type": "Framework"
+            },
+            {
+                "name": "React (CSR)",
+                "icons": [
+                    "/media/images/react.png"
+                ],
+                "type": "Framework"
+            },
+            {
+                "name": "React Native",
+                "icons": [
+                    "/media/images/react.png"
+                ],
+                "type": "Framework"
+            },
+            {
+                "name": "Handlebars (SSR)",
+                "icons": [
+                    "/media/images/handlebars.png"
+                ],
+                "type": "Framework"
+            },
+            {
+                "name": "Node.js",
+                "icons": [
+                    "/media/images/nodejs.png"
+                ],
+                "type": "Framework"
+            },
+            {
+                "name": "Expo",
+                "icons": [
+                    "/media/images/expo.png"
+                ],
+                "type": "Framework"
+            },
+            {
+                "name": "WordPress",
+                "icons": [
+                    "/media/images/wordpress.png"
+                ],
+                "type": "Framework"
+            },
+            {
+                "name": "Robot Framework",
+                "icons": [
+                    "/media/images/robot-framework.png"
+                ],
+                "type": "Framework"
+            },
+            {
+                "name": "MySQL",
+                "icons": [
+                    "/media/images/mysql-2.png"
+                ],
+                "type": "Database"
+            },
+            {
+                "name": "MongoDB",
+                "icons": [
+                    "/media/images/mongodb.png"
+                ],
+                "type": "Database"
+            },
+            {
+                "name": "Postman",
+                "icons": [
+                    "/media/images/postman.png"
+                ],
+                "type": "Tool"
+            },
+            {
+                "name": "Git",
+                "icons": [
+                    "/media/images/git.png"
+                ],
+                "type": "Tool"
+            },
+            {
+                "name": "GitHub",
+                "icons": [
+                    "/media/images/github-2.png"
+                ],
+                "type": "Tool"
+            },
+            {
+                "name": "Visual Studio Code",
+                "icons": [
+                    "/media/images/visual-studio-code.png"
+                ],
+                "type": "Tool"
+            },
+            {
+                "name": "Visual Studio",
+                "icons": [
+                    "/media/images/visual-studio.png"
+                ],
+                "type": "Tool"
+            },
+            {
+                "name": "Eclipse",
+                "icons": [
+                    "/media/images/eclipse.svg"
+                ],
+                "type": "Tool"
+            },
+            {
+                "name": "Android Studio",
+                "icons": [
+                    "/media/images/android.png"
+                ],
+                "type": "Tool"
+            },
+            {
+                "name": "Docker",
+                "icons": [
+                    "/media/images/docker.png"
+                ],
+                "type": "Tool"
+            },
+            {
+                "name": "VirtualBox",
+                "icons": [
+                    "/media/images/virtualbox.png"
+                ],
+                "type": "Tool"
+            },
+            {
+                "name": "GitHub Copilot",
+                "icons": [
+                    "/media/images/copilot.png"
+                ],
+                "type": "Tool"
+            },
+            {
+                "name": "ChatGPT",
+                "icons": [
+                    "/media/images/chatgpt.png"
+                ],
+                "type": "Tool"
+            },
+            {
+                "name": "UiPath",
+                "icons": [
+                    "/media/images/uipath.png"
+                ],
+                "type": "Tool"
+            },
+            {
+                "name": "Google Cloud",
+                "icons": [
+                    "/media/images/googlecloud.png"
+                ],
+                "type": "Cloud"
+            },
+            {
+                "name": "Railway",
+                "icons": [
+                    "/media/images/railway.png"
+                ],
+                "type": "Cloud"
+            },
+            {
+                "name": "Vercel",
+                "icons": [
+                    "/media/images/vercel.svg"
+                ],
+                "type": "Cloud"
+            },
+            {
+                "name": "Dreamhost",
+                "icons": [
+                    "/media/images/dreamhost.png"
+                ],
+                "type": "Cloud"
+            },
+            {
+                "name": "Windows 10",
+                "icons": [
+                    "/media/images/win10.png"
+                ],
+                "type": "Operating System"
+            },
+            {
+                "name": "Windows 11",
+                "icons": [
+                    "/media/images/win11.png"
+                ],
+                "type": "Operating System"
+            },
+            {
+                "name": "Linux Ubuntu",
+                "icons": [
+                    "/media/images/ubuntu.png"
+                ],
+                "type": "Operating System"
+            },
+            {
+                "name": "Linux Ubuntu Server",
+                "icons": [
+                    "/media/images/ubuntu.png"
+                ],
+                "type": "Operating System"
+            },
+            {
+                "name": "Jira",
+                "icons": [
+                    "/media/images/jira.png"
+                ],
+                "type": "Project Management"
+            },
+            {
+                "name": "Confluence",
+                "icons": [
+                    "/media/images/confluence.png"
+                ],
+                "type": "Project Management"
+            },
+            {
+                "name": "HTML",
+                "icons": [
+                    "/media/images/html.png"
+                ],
+                "type": "Web Technology"
+            },
+            {
+                "name": "CSS",
+                "icons": [
+                    "/media/images/css.png"
+                ],
+                "type": "Web Technology"
+            },
+            {
+                "name": "APIs",
+                "icons": [
+                    "/media/images/curlys.png"
+                ],
+                "type": "Web Technology"
+            },
+            {
+                "name": "Home Assistant",
+                "icons": [
+                    "/media/images/home-assistant.png"
+                ],
+                "type": "IoT"
+            },
+            {
+                "name": "Zigbee",
+                "icons": [
+                    "/media/images/zigbee.png"
+                ],
+                "type": "IoT"
+            },
+            {
+                "name": "Z-Wave",
+                "icons": [
+                    "/media/images/z-wave.png"
+                ],
+                "type": "IoT"
+            },
+            {
+                "name": "Data Processing",
+                "icons": [
+                    "/media/images/coding.png"
+                ],
+                "type": "Expertise"
+            },
+            {
+                "name": "Electrical Engineering",
+                "icons": [
+                    "/media/images/electrician.png",
+                    "/media/images/dali.png",
+                    "/media/images/knx.png"
+                ],
+                "type": "Expertise"
+            },
+            {
+                "name": "SCRUM",
+                "icons": [
+                    "/media/images/scrum.png"
+                ],
+                "type": "Soft Skill"
+            },
+            {
+                "name": "Leadership",
+                "icons": [
+                    "/media/images/sergeant.png",
+                    "/media/images/leadership.png"
+                ],
+                "type": "Soft Skill"
+            },
+            {
+                "name": "Teamwork",
+                "icons": [
+                    "/media/images/teamwork.png"
+                ],
+                "type": "Soft Skill"
+            },
+            {
+                "name": "Creativity",
+                "icons": [
+                    "/media/images/creativity.png"
+                ],
+                "type": "Soft Skill"
+            },
+            {
+                "name": "Organization",
+                "icons": [
+                    "/media/images/organization.png"
+                ],
+                "type": "Soft Skill"
+            },
+            {
+                "name": "Independence",
+                "icons": [
+                    "/media/images/independence.png"
+                ],
+                "type": "Soft Skill"
+            },
+            {
+                "name": "Problem Solving",
+                "icons": [
+                    "/media/images/problem-solving.png"
+                ],
+                "type": "Soft Skill"
+            },
+            {
+                "name": "Finnish",
+                "icons": [
+                    "/media/images/finland.png"
+                ],
+                "type": "Language"
+            },
+            {
+                "name": "English",
+                "icons": [
+                    "/media/images/great-britain.png"
+                ],
+                "type": "Language"
+            }
+        ]
+    },
+    "passions": {
+        "title": "Passions",
+        "passions": [
+            {
+                "passion": "Coding",
+                "imgSrc": "/media/images/coding.jpg",
+                "alt": "coding"
+            },
+            {
+                "passion": "Brazilian Jiu-Jitsu",
+                "imgSrc": "/media/images/bjj.png",
+                "alt": "bjj"
+            },
+            {
+                "passion": "Music",
+                "imgSrc": "/media/images/music.jpg",
+                "alt": "music"
+            },
+            {
+                "passion": "Fishing",
+                "imgSrc": "/media/images/fishing.jpg",
+                "alt": "fishing"
+            }
+        ]
+    },
+    "projets": {
+        "title": "Projects",
+        "projects": [
+            {
+                "project": "Movie Review - RESTful API, Website & Mobile App",
+                "date": "4 / 2025",
+                "description": "This was one our school group projects. We used 'themoviedb' API and stored the movies in MongoDB. Then we used Handlebars for server-side rendered frontend. On our next course, we were tasked to create a mobile app and we figured to use the same backend for it. We needed to make small tweeks to enhance the API endpoints and we created the mobile app with Android Studio, React Native and Expo.",
+                "codeLinks": [
+                    {
+                        "href": "https://github.com/joni23008/Backend-Web-Development",
+                        "text": "Backend Repository"
+                    },
+                    {
+                        "href": "https://github.com/Tupolaa/Mobile_project",
+                        "text": "Frontend Repository"
+                    }
+                ],
+                "extraLinks": [
+                    {
+                        "href": "https://www.themoviedb.org/",
+                        "text": "themoviedb - API"
+                    },
+                    {
+                        "href": "https://moviereview-472307.lm.r.appspot.com/",
+                        "text": "Demo"
+                    }
+                ],
+                "tech": [
+                    {
+                        "src": "/media/images/html.png",
+                        "alt": "html"
+                    },
+                    {
+                        "src": "/media/images/css.png",
+                        "alt": "css"
+                    },
+                    {
+                        "src": "/media/images/javascript.png",
+                        "alt": "javascript"
+                    },
+                    {
+                        "src": "/media/images/nodejs.png",
+                        "alt": "node.js"
+                    },
+                    {
+                        "src": "/media/images/expressjs.png",
+                        "alt": "express.js"
+                    },
+                    {
+                        "src": "/media/images/mongodb.png",
+                        "alt": "mongodb"
+                    },
+                    {
+                        "src": "/media/images/handlebars.png",
+                        "alt": "handlebars"
+                    },
+                    {
+                        "src": "/media/images/react.png",
+                        "alt": "react"
+                    },
+                    {
+                        "src": "/media/images/expo.png",
+                        "alt": "expo"
+                    },
+                    {
+                        "src": "/media/images/android.png",
+                        "alt": "android"
+                    }
+                ]
+            },
+            {
+                "project": "Snake - Game",
+                "date": "3 / 2025",
+                "description": "This was one of my school assignments, we were tasked to create something that showcased our skills with JavaScript. I invented the graphical designs myself and did them in Paint.",
+                "codeLinks": [
+                    {
+                        "href": "https://github.com/jonesssy/Snake",
+                        "text": "Repository"
+                    }
+                ],
+                "tech": [
+                    {
+                        "src": "/media/images/html.png",
+                        "alt": "html"
+                    },
+                    {
+                        "src": "/media/images/css.png",
+                        "alt": "css"
+                    },
+                    {
+                        "src": "/media/images/javascript.png",
+                        "alt": "javascript"
+                    }
+                ]
+            },
+            {
+                "project": "Billing automation with UIPath and Robot Framework for fictional company X",
+                "date": "3 / 2025",
+                "description": "This school project we did automates the processing of scanned PDF invoices by using UiPath and Robot Framework to extract, validate, and store invoice data in a MySQL database, ensuring accuracy of details like IBAN, reference numbers, and totals.",
+                "codeLinks": [
+                    {
+                        "href": "https://github.com/joni23008/Ohjelmistorobotiikka-ja--automaatio--Joni-ja-Vilho-",
+                        "text": "Repository"
+                    }
+                ],
+                "tech": [
+                    {
+                        "src": "/media/images/robot-framework.png",
+                        "alt": "robot framework"
+                    },
+                    {
+                        "src": "/media/images/uipath.png",
+                        "alt": "uipath"
+                    },
+                    {
+                        "src": "/media/images/visual-studio.png",
+                        "alt": "visual studio"
+                    },
+                    {
+                        "src": "/media/images/mysql-2.png",
+                        "alt": "mysql"
+                    }
+                ]
+            },
+            {
+                "project": "My Portfolio - Website",
+                "date": "12 / 2024",
+                "description": "This portfolio project significantly enhanced my skills in HTML, CSS, and JavaScript, with a focus on responsive design and interactivity. It was recently refactored to use React.",
+                "codeLinks": [
+                    {
+                        "href": "https://github.com/jonesssy/My-Portfolio",
+                        "text": "Repository"
+                    }
+                ],
+                "tech": [
+                    {
+                        "src": "/media/images/html.png",
+                        "alt": "html"
+                    },
+                    {
+                        "src": "/media/images/css.png",
+                        "alt": "css"
+                    },
+                    {
+                        "src": "/media/images/javascript.png",
+                        "alt": "javascript"
+                    },
+                    {
+                        "src": "/media/images/react.png",
+                        "alt": "react"
+                    }
+                ]
+            },
+            {
+                "project": "Rock, Paper & Scissors - Game",
+                "date": "10 / 2024",
+                "description": "This project features a MySQL database running in a Docker container for the backend, with the core logic implemented in Python. Essentially, it is a classic Rock, Paper, Scissors game, but enhanced with a scoreboard where the top 10 players can record their initials. This project also serves as an opportunity to delve into unit testing, making it a valuable learning experience.",
+                "codeLinks": [
+                    {
+                        "href": "https://github.com/jonesssy/Rock-Paper---Scissors",
+                        "text": "Repository"
+                    }
+                ],
+                "tech": [
+                    {
+                        "src": "/media/images/python.png",
+                        "alt": "python"
+                    },
+                    {
+                        "src": "/media/images/mysql-2.png",
+                        "alt": "mysql"
+                    },
+                    {
+                        "src": "/media/images/docker.png",
+                        "alt": "docker"
+                    }
+                ]
+            },
+            {
+                "project": "Downloads Folder Organizer - Automation Script",
+                "date": "10 / 2024",
+                "description": "This script was a delight to see in action once I got it fully integrated with my Task Scheduler. It continuously monitors my Downloads folder and organizes files into their respective directories. This project has been a practical solution to streamline my workflow, allowing me to focus on more important tasks while leaving repetitive organization to the script. I plan to develop more automation scripts like this to further enhance my productivity.",
+                "codeLinks": [
+                    {
+                        "href": "https://github.com/jonesssy/Downloads-Organizer",
+                        "text": "Repository"
+                    }
+                ],
+                "tech": [
+                    {
+                        "src": "/media/images/python.png",
+                        "alt": "python"
+                    }
+                ]
+            },
+            {
+                "project": "RESTful API - Floorheating Cable Calculator - JAVA",
+                "date": "9 / 2024",
+                "description": "Drawing from my experience as an electrician, I created this project to simplify floor heating cable selection. Using Java, Spring Boot, and a MySQL database running in a Docker container, I developed a backend system, complemented by a frontend built with HTML, CSS, and JavaScript. This tool allows users to input area dimensions, installation methods, and power requirements to receive a tailored cable recommendation based on cables by Pistesarjat. It eliminates the need for manual calculations, making the process efficient and user-friendly.",
+                "codeLinks": [
+                    {
+                        "href": "https://github.com/jonesssy/Floorheating-Cable-Calculator",
+                        "text": "Repository"
+                    }
+                ],
+                "extraLinks": [
+                    {
+                        "href": "https://pistesarjat.fi/collections/lattialammityskaapelit",
+                        "text": "Pistesarjat"
+                    }
+                ],
+                "tech": [
+                    {
+                        "src": "/media/images/java.png",
+                        "alt": "java"
+                    },
+                    {
+                        "src": "/media/images/spring-boot.png",
+                        "alt": "spring boot"
+                    },
+                    {
+                        "src": "/media/images/mysql-2.png",
+                        "alt": "mysql"
+                    },
+                    {
+                        "src": "/media/images/docker.png",
+                        "alt": "docker"
+                    },
+                    {
+                        "src": "/media/images/html.png",
+                        "alt": "html"
+                    },
+                    {
+                        "src": "/media/images/css.png",
+                        "alt": "css"
+                    },
+                    {
+                        "src": "/media/images/javascript.png",
+                        "alt": "javascript"
+                    }
+                ]
+            },
+            {
+                "project": "Lego EV3 Line Follower Robot",
+                "date": "4 / 2024",
+                "description": "In this project, our team developed a LeJOS EV3 Lego line follower robot programmed in Java that communicated with a RESTful server built in Eclipse, successfully using color and ultrasonic sensors for line tracking and obstacle avoidance, integrating keyboard control and music playback, and demonstrating strong object-oriented design and performance on the course track.",
+                "codeLinks": [
+                    {
+                        "href": "https://github.com/kl135/palikka-posse-project",
+                        "text": "Robot Repository"
+                    },
+                    {
+                        "href": "https://github.com/NikoLaaks/palikka-posse-server",
+                        "text": "Server Repository"
+                    }
+                ],
+                "tech": [
+                    {
+                        "src": "/media/images/eclipse.svg",
+                        "alt": "eclipse"
+                    },
+                    {
+                        "src": "/media/images/java.png",
+                        "alt": "java"
+                    },
+                    {
+                        "src": "/media/images/html.png",
+                        "alt": "html"
+                    }
+                ]
+            }
+        ]
+    }
+}

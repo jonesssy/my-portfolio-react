@@ -4,7 +4,7 @@ import React from "react";
 const lifeParagraphs = [
     {
         lead: "WHO AM I",
-        text: " well I am a almost graduated Business Information Technology student at Häme University of Applied Sciences. My goal is to transition into software development, particularly backend development, focusing on creating web and mobile applications."
+        text: " well I am a soon to graduate Business Information Technology student at Häme University of Applied Sciences, with strong academic performance (avg 4.58). My goal is to transition into software development, particularly backend development, focusing on creating web and mobile applications."
     },
     {
         lead: "CURRENTLY",

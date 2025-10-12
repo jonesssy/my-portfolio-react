@@ -1,10 +1,10 @@
 import React from "react";
 
 const passions = [
-    { title: "Coding", imgSrc: "/media/images/coding.jpg", alt: "coding" },
-    { title: "Brazilian Jiu-Jitsu", imgSrc: "/media/images/bjj.png", alt: "bjj" },
-    { title: "Music", imgSrc: "/media/images/music.jpg", alt: "music" },
-    { title: "Fishing", imgSrc: "/media/images/fishing.jpg", alt: "fishing" },
+    { passion: "Coding", imgSrc: "/media/images/coding.jpg", alt: "coding" },
+    { passion: "Brazilian Jiu-Jitsu", imgSrc: "/media/images/bjj.png", alt: "bjj" },
+    { passion: "Music", imgSrc: "/media/images/music.jpg", alt: "music" },
+    { passion: "Fishing", imgSrc: "/media/images/fishing.jpg", alt: "fishing" },
 ];
 
 export default function Passions() {
@@ -15,7 +15,7 @@ export default function Passions() {
             <div className="passion-grid">
                 {passions.map((p, index) => (
                     <div key={index} className="passion-card">
-                        <h3>{p.title}</h3>
+                        <h3>{p.passion}</h3>
                         <img src={p.imgSrc} alt={p.alt} />
                     </div>
                 ))}

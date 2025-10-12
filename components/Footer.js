@@ -16,6 +16,16 @@ export default function Footer() {
                         alt="GitHub"
                     />
                 </a>
+                <a
+                    href="https://www.linkedin.com/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <img
+                        src="/media/images/linkedin.png"
+                        alt="LinkedIn"
+                    />
+                </a>
             </div>
 
             <p>©{new Date().getFullYear()} Joni Mitronen. — All rights reserved.</p>

@@ -30,16 +30,19 @@ const skills = [
     { name: "GitHub", icons: ["/media/images/github-2.png"], type: "Tool" },
     { name: "Visual Studio Code", icons: ["/media/images/visual-studio-code.png"], type: "Tool" },
     { name: "Visual Studio", icons: ["/media/images/visual-studio.png"], type: "Tool" },
+    { name: "Eclipse", icons: ["/media/images/eclipse.svg"], type: "Tool" },
     { name: "Android Studio", icons: ["/media/images/android.png"], type: "Tool" },
     { name: "Docker", icons: ["/media/images/docker.png"], type: "Tool" },
     { name: "VirtualBox", icons: ["/media/images/virtualbox.png"], type: "Tool" },
     { name: "GitHub Copilot", icons: ["/media/images/copilot.png"], type: "Tool" },
     { name: "ChatGPT", icons: ["/media/images/chatgpt.png"], type: "Tool" },
+    { name: "UiPath", icons: ["/media/images/uipath.png"], type: "Tool" },
 
     // ☁️ Cloud
     { name: "Google Cloud", icons: ["/media/images/googlecloud.png"], type: "Cloud" },
     { name: "Railway", icons: ["/media/images/railway.png"], type: "Cloud" },
     { name: "Vercel", icons: ["/media/images/vercel.svg"], type: "Cloud" },
+    { name: "Dreamhost", icons: ["/media/images/dreamhost.png"], type: "Cloud" },
 
     // 💻 Operating Systems
     { name: "Windows 10", icons: ["/media/images/win10.png"], type: "Operating System" },
