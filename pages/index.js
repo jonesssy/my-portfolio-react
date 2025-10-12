@@ -4,7 +4,7 @@ import Navbar from "../components/Navbar";
 import Hero from "../components/Hero";
 import Life from "../components/Life";
 import Skills from "../components/Skills";
-import Passions from "../components/Passions";
+import Hobbies from "../components/Hobbies";
 import Projects from "../components/Projects";
 import Footer from "../components/Footer";
 
@@ -28,8 +28,8 @@ export default function Home() {
           <Skills />
         </section>
 
-        <section id="passions" style={sectionStyle}>
-          <Passions />
+        <section id="hobbies" style={sectionStyle}>
+          <Hobbies />
         </section>
 
         <section id="projects" style={sectionStyle}>

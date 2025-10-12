@@ -1,23 +1,38 @@
 {
     "navbar": [
-        "koti",
-        "elämä",
-        "taidot",
-        "intohimot",
-        "projektit"
+        {
+            "id": "home",
+            "label": "koti"
+        },
+        {
+            "id": "life",
+            "label": "elämä"
+        },
+        {
+            "id": "skills",
+            "label": "taidot"
+        },
+        {
+            "id": "hobbies",
+            "label": "harrastukset"
+        },
+        {
+            "id": "projects",
+            "label": "projektit"
+        }
     ],
     "hero": {
         "welcome": "Tervetuloa",
         "p1": "Minä olen ",
         "name": "JONI MITRONEN",
-        "p2": ", ja tämä on portfolioni. Nautinnollista selausta!"
+        "p2": ", ja tämä on portfolioni."
     },
     "life": {
         "title": "Elämä",
         "paragraphs": [
             {
                 "lead": "KUKA MINÄ OLEN",
-                "text": "no minä olen pian valmistuva tradenomiopiskelija Hämeen ammattikorkeakoulusta, vahvalla opintomenestyksellä (keskiarvo 4,58). Tavoitteenani on siirtyä ohjelmistokehityksen pariin, erityisesti backend-puolelle, kehittämään web- ja mobiilisovelluksia."
+                "text": "no mina olen pian valmistuva tradenomiopiskelija Hämeen ammattikorkeakoulusta, vahvalla opintomenestyksellä (keskiarvo 4,6). Tavoitteenani on siirtyä ohjelmistokehityksen pariin, erityisesti backend-puolelle, kehittämään web- ja mobiilisovelluksia."
             },
             {
                 "lead": "TÄLLÄ HETKELLÄ",
@@ -28,7 +43,7 @@
                 "text": "olen myös entinen sähköasentaja, jolla on seitsemän vuoden käytännön kokemus teknisestä työstä ja toimimisesta erilaisissa projekteissa. Minulla on S2-luvat ja ylläpidän taitojani tekemällä pienimuotoisia sähköasennuksia sukulaisille ja ystäville. Yhtenä tavoitteenani on yhdistää vanhaa osaamistani uuden oppimani kanssa — kehittää automaatioratkaisuja ja lisätä logiikkaa asennuksiini, jotta voisin luoda entistä tehokkaampia, ekologisempia ja älykkäämpiä ratkaisuja kotitalouksiin."
             },
             {
-                "lead": "TYÖKAVERIANA",
+                "lead": "TYÖKAVERINA",
                 "text": "minua kuvaillaan työssäni tarkkana, järjestelmällisenä ja ratkaisukeskeisenä tiimipelaajana, jolla on kokemusta sekä tiimien johtamisesta että itsenäisestä työskentelystä. Uskon jatkuvaan oppimiseen ja minua motivoi uuden teknologian soveltaminen tehokkaisiin ja käytännöllisiin ratkaisuihin."
             },
             {
@@ -427,26 +442,26 @@
             }
         ]
     },
-    "passions": {
-        "title": "Intohimot",
-        "passions": [
+    "hobbies": {
+        "title": "Harrastukset",
+        "hobbies": [
             {
-                "passion": "Ohjelmointi",
+                "hobbie": "Ohjelmointi",
                 "imgSrc": "/media/images/coding.jpg",
                 "alt": "coding"
             },
             {
-                "passion": "Brazilian Jiu-Jitsu",
+                "hobbie": "Brazilian Jiu-Jitsu",
                 "imgSrc": "/media/images/bjj.png",
                 "alt": "bjj"
             },
             {
-                "passion": "Musiikki",
+                "hobbie": "Musiikki",
                 "imgSrc": "/media/images/music.jpg",
                 "alt": "music"
             },
             {
-                "passion": "Kalastus",
+                "hobbie": "Kalastus",
                 "imgSrc": "/media/images/fishing.jpg",
                 "alt": "fishing"
             }
@@ -577,7 +592,7 @@
                 ]
             },
             {
-                "project": "Oma Portfolio - Verkkosivusto",
+                "project": "Oma Portfolio - Verkkosivu",
                 "date": "12 / 2024",
                 "description": "Tämä portfoliohanke kehitti merkittävästi taitojani HTML:ssä, CSS:ssä ja JavaScriptissä, keskittyen responsiiviseen suunnitteluun ja interaktiivisuuteen. Se on äskettäin refaktoroitu Reactin käyttöön.",
                 "codeLinks": [
@@ -695,7 +710,7 @@
                 ]
             },
             {
-                "project": "Lego EV3 Line Follower -robotti",
+                "project": "Lego EV3 Line Follower Robotti",
                 "date": "4 / 2024",
                 "description": "Tässä projektissa tiimimme kehitti LeJOS EV3 Lego -linjaseuraajarobotin, joka on ohjelmoitu Javalla ja kommunikoituu Eclipse-pohjaisen RESTful-palvelimen kanssa. Projekti onnistui käyttämään väri- ja ultraäänisensoreita linjan seurannassa ja esteiden välttämisessä, integroimaan näppäimistön ohjauksen ja musiikin toiston, sekä osoittamaan vahvaa olio-ohjelmointisuunnittelua ja suorituskykyä kurssiradalla.",
                 "codeLinks": [

@@ -24,7 +24,7 @@ import "../styles/navbar.css";
 import "../styles/hero.css";
 import "../styles/life.css";
 import "../styles/skills.css";
-import "../styles/passions.css";
+import "../styles/hobbies.css";
 import "../styles/projects.css";
 import "../styles/footer.css";
 

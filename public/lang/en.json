@@ -1,23 +1,38 @@
 {
     "navbar": [
-        "home",
-        "life",
-        "skills",
-        "passions",
-        "projects"
+        {
+            "id": "home",
+            "label": "home"
+        },
+        {
+            "id": "life",
+            "label": "life"
+        },
+        {
+            "id": "skills",
+            "label": "skills"
+        },
+        {
+            "id": "hobbies",
+            "label": "hobbies"
+        },
+        {
+            "id": "projects",
+            "label": "projects"
+        }
     ],
     "hero": {
         "welcome": "Welcome",
         "p1": "I'm ",
         "name": "JONI MITRONEN",
-        "p2": ", and this is my portfolio. Enjoy!"
+        "p2": ", and this is my portfolio."
     },
     "life": {
         "title": "Life",
         "paragraphs": [
             {
                 "lead": "WHO AM I",
-                "text": "well I am a soon to graduate Business Information Technology student at Häme University of Applied Sciences, with strong academic performance (avg 4.58). My goal is to transition into software development, particularly backend development, focusing on creating web and mobile applications."
+                "text": "well I am a soon to graduate Business Information Technology student at Häme University of Applied Sciences, with strong academic performance (avg 4.6). My goal is to transition into software development, particularly backend development, focusing on creating web and mobile applications."
             },
             {
                 "lead": "CURRENTLY",
@@ -427,32 +442,32 @@
             }
         ]
     },
-    "passions": {
-        "title": "Passions",
-        "passions": [
+    "hobbies": {
+        "title": "Hobbies",
+        "hobbies": [
             {
-                "passion": "Coding",
+                "hobbie": "Coding",
                 "imgSrc": "/media/images/coding.jpg",
                 "alt": "coding"
             },
             {
-                "passion": "Brazilian Jiu-Jitsu",
+                "hobbie": "Brazilian Jiu-Jitsu",
                 "imgSrc": "/media/images/bjj.png",
                 "alt": "bjj"
             },
             {
-                "passion": "Music",
+                "hobbie": "Music",
                 "imgSrc": "/media/images/music.jpg",
                 "alt": "music"
             },
             {
-                "passion": "Fishing",
+                "hobbie": "Fishing",
                 "imgSrc": "/media/images/fishing.jpg",
                 "alt": "fishing"
             }
         ]
     },
-    "projets": {
+    "projects": {
         "title": "Projects",
         "projects": [
             {

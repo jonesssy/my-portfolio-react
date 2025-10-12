@@ -1,5 +1,5 @@
 /* === Section Wrapper === */
-.passions-section {
+.hobbies-section {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -11,7 +11,7 @@
 }
 
 /* === Title === */
-.passions-title {
+.hobbies-title {
     letter-spacing: 2px;
     font-size: 2rem;
     font-weight: 600;
@@ -23,8 +23,8 @@
     width: 100%;
 }
 
-/* === Passion Grid === */
-.passion-grid {
+/* === hobbie Grid === */
+.hobbie-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
     gap: 2rem;
@@ -33,13 +33,13 @@
     justify-items: center;
 }
 
-/* === Each Passion Card === */
-.passion-card {
+/* === Each hobbie Card === */
+.hobbie-card {
     text-align: center;
     transition: transform 0.3s ease;
 }
 
-.passion-card h3 {
+.hobbie-card h3 {
     color: #ffffff;
     font-size: 1.8rem;
     font-weight: 500;
@@ -48,7 +48,7 @@
 }
 
 /* === Circular Image === */
-.passion-card img {
+.hobbie-card img {
     /* width: 150px;
     height: 150px; */
 
@@ -65,12 +65,12 @@
 
 /* Responsive adjustments */
 @media (max-width: 768px) {
-    .passion-card img {
+    .hobbie-card img {
         width: 120px;
         height: 120px;
     }
 
-    .passion-card h3 {
+    .hobbie-card h3 {
         font-size: 1rem;
     }
 }
