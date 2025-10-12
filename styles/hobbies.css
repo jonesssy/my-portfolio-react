@@ -33,7 +33,7 @@
     justify-items: center;
 }
 
-/* === Each hobbie Card === */
+
 .hobbie-card {
     text-align: center;
     transition: transform 0.3s ease;
@@ -47,10 +47,7 @@
     text-transform: capitalize;
 }
 
-/* === Circular Image === */
 .hobbie-card img {
-    /* width: 150px;
-    height: 150px; */
 
     width: 100%;
     max-width: 400px;
@@ -63,7 +60,6 @@
 
 }
 
-/* Responsive adjustments */
 @media (max-width: 768px) {
     .hobbie-card img {
         width: 120px;

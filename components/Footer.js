@@ -4,8 +4,9 @@ import React from "react";
 export default function Footer() {
     return (
         <footer>
+            <p>joni.mitronen@gmail.com</p>
             <div className="footer-top">
-                <p>joni.mitronen@gmail.com</p>
+
                 <a
                     href="https://github.com/jonesssy"
                     target="_blank"
