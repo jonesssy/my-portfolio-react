@@ -50,7 +50,7 @@
   line-height: 1.5;
   font-size: 1.3rem;
   margin-bottom: 1.5rem;
-  text-align: justify;
+  text-align: left;
 }
 
 /* === Lead word styling === */
@@ -80,4 +80,21 @@
   box-shadow: 0 10px 100px rgba(114, 114, 114, 0.568);
   margin: 0 auto;
   transition: all 0.3s ease-in-out;
+}
+
+/* === Read More Button === */
+.read-more-btn {
+  background: none;
+  border: none;
+  color: #ff4646;
+  font-weight: 600;
+  cursor: pointer;
+  text-decoration: underline;
+  padding: 0;
+  margin-left: 0.3rem;
+  transition: color 0.2s ease;
+}
+
+.read-more-btn:hover {
+  color: #ffffff;
 }
