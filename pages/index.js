@@ -19,23 +19,18 @@ export default function Home() {
         <section id="home" style={{ ...sectionStyle, paddingTop: 20 }}>
           <Hero />
         </section>
-
-        <section id="life" style={sectionStyle}>
-          <Life />
-        </section>
-
-        <section id="skills" style={sectionStyle}>
-          <Skills />
-        </section>
-
-        <section id="hobbies" style={sectionStyle}>
-          <Hobbies />
-        </section>
-
         <section id="projects" style={sectionStyle}>
           <Projects />
         </section>
-
+        <section id="skills" style={sectionStyle}>
+          <Skills />
+        </section>
+        <section id="life" style={sectionStyle}>
+          <Life />
+        </section>
+        <section id="hobbies" style={sectionStyle}>
+          <Hobbies />
+        </section>
       </main>
 
       <Footer />

@@ -5,20 +5,20 @@
             "label": "koti"
         },
         {
-            "id": "life",
-            "label": "elämä"
+            "id": "projects",
+            "label": "projektit"
         },
         {
             "id": "skills",
             "label": "taidot"
         },
         {
-            "id": "hobbies",
-            "label": "harrastukset"
+            "id": "life",
+            "label": "elämä"
         },
         {
-            "id": "projects",
-            "label": "projektit"
+            "id": "hobbies",
+            "label": "harrastukset"
         }
     ],
     "hero": {
@@ -31,20 +31,20 @@
         "title": "Elämä",
         "paragraphs": [
             {
-                "lead": "KUKA MINÄ OLEN",
-                "text": "no minä olen pian valmistuva tradenomiopiskelija Hämeen ammattikorkeakoulusta, vahvalla opintomenestyksellä (keskiarvo 4,6). Tavoitteenani on siirtyä ohjelmistokehityksen pariin, erityisesti backend-puolelle, kehittämään web- ja mobiilisovelluksia."
+                "lead": "BACKENDIN TULEVAISUUS",
+                "text": "pian valmistuva tietojenkäsittelytradenomi Hämeen ammattikorkeakoulusta, vahvalla opintomenestyksellä (keskiarvo 4,6). Tavoitteenani on siirtyä ohjelmistokehityksen pariin, erityisesti backend-puolelle, kehittämään web- ja mobiilisovelluksia."
             },
             {
-                "lead": "TÄLLÄ HETKELLÄ",
-                "text": "minulle on jo kertynyt kokemusta suosituimmista ohjelmointikielistä ja niiden käyttötarkoituksista opintojeni aikana. Tunnistan myös erilaiset tietokantaratkaisut ja kykenen hyödyntämään niitä ohjelmoinnissani. Pyrin koodaamaan modulaarista, dynaamista ja laadukasta koodia, jota on helppo ylläpitää ja on turvallista. Kouluprojekteissa nautin tiimin vetämisestä ja projektinhallinnasta, sekä tietenkin ongelmien ratkaisusta yhteistoimin. Olemme käyttäneet projektinhallinnassa alalla yleisesti käytettyjä työkaluja ja muita yleisiä käytäntöjä työnkulun ja koodauksen hallintaan."
+                "lead": "OPPIMMISTA JA PUSKEMISTA",
+                "text": "opintojeni aikana olen saanut kokemusta useista suosituista ohjelmointikielistä ja niiden käyttötarkoituksista Tunnistan myös erilaiset tietokantaratkaisut ja kykenen hyödyntämään niitä ohjelmoinnissani. Pyrin koodaamaan modulaarista, dynaamista ja laadukasta koodia, jota on helppo ylläpitää ja on turvallista. Kouluprojekteissa nautin tiimin vetämisestä ja projektinhallinnasta, sekä tietenkin ongelmien ratkaisusta yhteistoimin. Olemme käyttäneet projektinhallinnassa alalla yleisesti käytettyjä työkaluja ja muita yleisiä käytäntöjä työnkulun ja koodauksen hallintaan. Olen oppinut myös hyödyntämään tekoälyä monipuolisesti koodin tuottamiseen ja debugaukseen, ideointiin ja inspiraatioon, ongelmanratkaisuun ja oppimiseen, sekä rutiinitehtävien automatisointiin, luoden näin pohjan jatkuvalle oppimiselle ja uusien taitojen hallinnalle."
             },
             {
-                "lead": "LISÄKSI",
-                "text": "olen myös entinen sähköasentaja, jolla on seitsemän vuoden käytännön kokemus teknisestä työstä ja toimimisesta erilaisissa projekteissa. Minulla on S2-luvat ja ylläpidän taitojani tekemällä pienimuotoisia sähköasennuksia sukulaisille ja ystäville. Yhtenä tavoitteenani on yhdistää vanhaa osaamistani uuden oppimani kanssa — kehittää automaatioratkaisuja ja lisätä logiikkaa asennuksiini, jotta voisin luoda entistä tehokkaampia, ekologisempia ja älykkäämpiä ratkaisuja kotitalouksiin."
+                "lead": "JOHDOISTA KOODIIN",
+                "text": "seitsemän vuoden käytännön kokemuksella sähköasentajana tuon kokonaisuuteen ainutlaatuisen näkökulman. Minulla on S2-luvat ja ylläpidän taitojani tekemällä pienimuotoisia sähköasennuksia sukulaisille ja ystäville. Yhtenä tavoitteenani on yhdistää vanhaa osaamistani uuden oppimani kanssa — kehittää automaatioratkaisuja ja lisätä logiikkaa asennuksiini, jotta voisin luoda entistä tehokkaampia, ekologisempia ja älykkäämpiä ratkaisuja kotitalouksiin."
             },
             {
-                "lead": "TYÖKAVERINA",
-                "text": "minua kuvaillaan työssäni tarkkana, järjestelmällisenä ja ratkaisukeskeisenä tiimipelaajana, jolla on kokemusta sekä tiimien johtamisesta että itsenäisestä työskentelystä. Uskon jatkuvaan oppimiseen ja minua motivoi uuden teknologian soveltaminen tehokkaisiin ja käytännöllisiin ratkaisuihin."
+                "lead": "TIIMIN JÄSENENÄ",
+                "text": "minua kuvaillaan tarkkana, järjestelmällisenä ja ratkaisukeskeisenä tiimipelaajana, jolla on kokemusta sekä tiimien johtamisesta että itsenäisestä työskentelystä. Uskon jatkuvaan oppimiseen ja minua motivoi uuden teknologian soveltaminen tehokkaisiin ja käytännöllisiin ratkaisuihin."
             },
             {
                 "lead": "VAPAA-AJALLANI",
