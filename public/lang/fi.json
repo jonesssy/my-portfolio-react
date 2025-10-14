@@ -363,14 +363,14 @@
             {
                 "name": "KNX",
                 "icons": [
-                    "/media/images/z-wave.png"
+                    "/media/images/knx.png"
                 ],
                 "type": "IoT"
             },
             {
                 "name": "DALI",
                 "icons": [
-                    "/media/images/z-wave.png"
+                    "/media/images/dali.png"
                 ],
                 "type": "IoT"
             },
