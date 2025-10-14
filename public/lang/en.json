@@ -57,6 +57,9 @@
         "skills": [
             {
                 "name": "JavaScript",
+                "icons": [
+                    "/media/images/javascript.png"
+                ],
                 "type": "Programming Language"
             },
             {
