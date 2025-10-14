@@ -76,27 +76,10 @@
 
 .skill-card:hover {
     transform: translateY(-4px);
-    /* box-shadow: 0 6px 20px rgba(255, 70, 70, 0.4); */
     border-color: #ff4646;
     box-shadow: 0 0 10px #ff4646;
 }
 
-.skill-card.dimmed {
-    opacity: 0.3;
-    filter: grayscale(50%);
-}
-
-.skill-card.highlight {
-    opacity: 1;
-}
-
-/* === Icons === */
-/* .skill-icons img {
-    width: 25px;
-    height: 25px;
-    object-fit: contain;
-
-} */
 .skill-icons {
     display: flex;
     flex-direction: row;
