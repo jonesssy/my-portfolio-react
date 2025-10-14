@@ -461,24 +461,28 @@
         "title": "Hobbies",
         "hobbies": [
             {
-                "hobbie": "Coding",
-                "imgSrc": "/media/images/coding.jpg",
-                "alt": "coding"
-            },
-            {
                 "hobbie": "Brazilian Jiu-Jitsu",
                 "imgSrc": "/media/images/bjj.png",
-                "alt": "bjj"
+                "alt": "bjj",
+                "text": "I started Brazilian jiu-jitsu to support my well-being and health. It puts a good strain on the whole body and provides an opportunity to disconnect from everyday life. It also helps me stay smoke-free, a decision I don't regret for a second! I am currently at the level of a blue belt and I participate in competitions when ever I get the chance. "
             },
             {
                 "hobbie": "Music",
                 "imgSrc": "/media/images/music.jpg",
-                "alt": "music"
+                "alt": "music",
+                "text": "I've been making music on an amateur level since I was 16 years old. Electronic Dance Music, rap and currently metal are examples of what genres I produce or am learning to produce. I started playing guitar because I've always wanted to play an instrument. I also write lyrics. Needless to say, I listen to quite a lot of music and all sorts of things. From gentle classic to dark death metal. I usually go to gigs in the winter and spend most of my summer in music festivals. "
             },
             {
                 "hobbie": "Fishing",
                 "imgSrc": "/media/images/fishing.jpg",
-                "alt": "fishing"
+                "alt": "fishing",
+                "text": "Finnish summers are short, so make the most of it! I fish at the cottage and most of the time I hope to catch pike. I enjoy fish food and my dogs too, so this hobby needs no more justification. And when you don't catch fish, you get to enjoy the fresh air and beautiful scenery."
+            },
+            {
+                "hobbie": "Gaming",
+                "imgSrc": "/media/images/gaming.jpg",
+                "alt": "gaming",
+                "text": "Gaming has been a long-time passion of mine. I enjoy both fast-paced action and thoughtful strategy, depending on my mood. Games like Titanfall 1 & 2 fuel my love for movement and precision, while Factorio and Kingdoms & Castles let me unwind through creativity and careful planning. Diablo 2 and 4 scratch my itch for classic loot-driven adventures, and the Payday series brings out my cooperative and tactical side. Whether solo or with friends, gaming offers me both challenge and relaxation after a long day."
             }
         ]
     },

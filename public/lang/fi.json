@@ -461,24 +461,28 @@
         "title": "Harrastukset",
         "hobbies": [
             {
-                "hobbie": "Ohjelmointi",
-                "imgSrc": "/media/images/coding.jpg",
-                "alt": "coding"
-            },
-            {
                 "hobbie": "Brazilian Jiu-Jitsu",
                 "imgSrc": "/media/images/bjj.png",
-                "alt": "bjj"
+                "alt": "bjj",
+                "text": "Aloitin Brazilian jiu-jitsun hyvinvointini ja terveyteni tukemiseksi. Se kuormittaa koko kehoa sopivasti ja tarjoaa mahdollisuuden irrottautua arjesta. Se myös auttaa minua pysymään savuttomana, päätös jota en kadu sekuntiakaan! Olen tällä hetkellä sinisen vyön tasolla ja osallistun kilpailuihin aina kun siihen on mahdollisuus."
             },
             {
                 "hobbie": "Musiikki",
                 "imgSrc": "/media/images/music.jpg",
-                "alt": "music"
+                "alt": "music",
+                "text": "Olen tehnyt musiikkia harrastelijatasolla 16-vuotiaasta lähtien. EDM, rap ja tällä hetkellä metal ovat esimerkkejä genreistä, joita tuotan tai opettelen tuottamaan. Aloitin kitaran soiton, koska olen aina halunnut soittaa soitinta. Kirjoitan myös sanoituksia. Kuuntelen luonnollisesti paljon musiikkia, kaikenlaista klassisesta pehmeästä musiikista aina tummaan death metaliin asti. Käyn yleensä keikoilla talvella ja vietän suurimman osan kesästä musiikkifestivaaleilla."
             },
             {
                 "hobbie": "Kalastus",
                 "imgSrc": "/media/images/fishing.jpg",
-                "alt": "fishing"
+                "alt": "fishing",
+                "text": "Suomalaiset kesät ovat lyhyitä, joten niistä pitää ottaa kaikki irti! Kalastan mökillä ja useimmiten toivon saavani hauen. Nautin sekä kalasta että koiristani, joten tämä harrastus ei kaipaa enempää perusteluja. Ja kun kalaa ei tule, pääsee nauttimaan raikkaasta ilmasta ja kauniista maisemista."
+            },
+            {
+                "hobbie": "Pelaaminen",
+                "imgSrc": "/media/images/gaming.jpg",
+                "alt": "gaming",
+                "text": "Pelaaminen on ollut pitkään intohimoni. Nautin sekä nopeatempoisesta toiminnasta että harkitusta strategiasta mielialastani riippuen. Titanfall 1 & 2 ruokkivat rakkauttani liikkumiseen ja tarkkuuteen, kun taas Factorio ja Kingdoms & Castles antavat mahdollisuuden rentoutua luovuuden ja huolellisen suunnittelun kautta. Diablo 2 ja 4 tyydyttävät haluani klassisiin loot-pohjaisiin seikkailuihin, ja Payday-sarja tuo esiin yhteistyö- ja taktisen puolen. Olipa kyseessä yksin tai kavereiden kanssa pelaaminen, se tarjoaa sekä haasteita että rentoutumista pitkän päivän päätteeksi."
             }
         ]
     },
