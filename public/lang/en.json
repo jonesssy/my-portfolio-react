@@ -629,6 +629,14 @@
                     {
                         "src": "/media/images/react.png",
                         "alt": "react"
+                    },
+                    {
+                        "src": "/media/images/dreamhost.png",
+                        "alt": "dreamhost"
+                    },
+                    {
+                        "src": "/media/images/vercel.svg",
+                        "alt": "vercel"
                     }
                 ]
             },

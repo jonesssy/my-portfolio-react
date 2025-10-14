@@ -32,7 +32,7 @@
         "paragraphs": [
             {
                 "lead": "KUKA MINÄ OLEN",
-                "text": "no mina olen pian valmistuva tradenomiopiskelija Hämeen ammattikorkeakoulusta, vahvalla opintomenestyksellä (keskiarvo 4,6). Tavoitteenani on siirtyä ohjelmistokehityksen pariin, erityisesti backend-puolelle, kehittämään web- ja mobiilisovelluksia."
+                "text": "no minä olen pian valmistuva tradenomiopiskelija Hämeen ammattikorkeakoulusta, vahvalla opintomenestyksellä (keskiarvo 4,6). Tavoitteenani on siirtyä ohjelmistokehityksen pariin, erityisesti backend-puolelle, kehittämään web- ja mobiilisovelluksia."
             },
             {
                 "lead": "TÄLLÄ HETKELLÄ",
@@ -629,6 +629,14 @@
                     {
                         "src": "/media/images/react.png",
                         "alt": "react"
+                    },
+                    {
+                        "src": "/media/images/dreamhost.png",
+                        "alt": "dreamhost"
+                    },
+                    {
+                        "src": "/media/images/vercel.svg",
+                        "alt": "vercel"
                     }
                 ]
             },
