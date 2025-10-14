@@ -468,19 +468,19 @@
             },
             {
                 "hobbie": "Musiikki",
-                "imgSrc": "/media/images/music.jpg",
+                "imgSrc": "/media/images/music.png",
                 "alt": "music",
                 "text": "Olen tehnyt musiikkia harrastelijatasolla 16-vuotiaasta lähtien. EDM, rap ja tällä hetkellä metal ovat esimerkkejä genreistä, joita tuotan tai opettelen tuottamaan. Aloitin kitaran soiton, koska olen aina halunnut soittaa soitinta. Kirjoitan myös sanoituksia. Kuuntelen luonnollisesti paljon musiikkia, kaikenlaista klassisesta pehmeästä musiikista aina tummaan death metaliin asti. Käyn yleensä keikoilla talvella ja vietän suurimman osan kesästä musiikkifestivaaleilla."
             },
             {
                 "hobbie": "Kalastus",
-                "imgSrc": "/media/images/fishing.jpg",
+                "imgSrc": "/media/images/fishing.png",
                 "alt": "fishing",
                 "text": "Suomalaiset kesät ovat lyhyitä, joten niistä pitää ottaa kaikki irti! Kalastan mökillä ja useimmiten toivon saavani hauen. Nautin sekä kalasta että koiristani, joten tämä harrastus ei kaipaa enempää perusteluja. Ja kun kalaa ei tule, pääsee nauttimaan raikkaasta ilmasta ja kauniista maisemista."
             },
             {
                 "hobbie": "Pelaaminen",
-                "imgSrc": "/media/images/gaming.jpg",
+                "imgSrc": "/media/images/gaming.png",
                 "alt": "gaming",
                 "text": "Pelaaminen on ollut pitkään intohimoni. Nautin sekä nopeatempoisesta toiminnasta että harkitusta strategiasta mielialastani riippuen. Titanfall 1 & 2 ruokkivat rakkauttani liikkumiseen ja tarkkuuteen, kun taas Factorio ja Kingdoms & Castles antavat mahdollisuuden rentoutua luovuuden ja huolellisen suunnittelun kautta. Diablo 2 ja 4 tyydyttävät haluani klassisiin loot-pohjaisiin seikkailuihin, ja Payday-sarja tuo esiin yhteistyö- ja taktisen puolen. Olipa kyseessä yksin tai kavereiden kanssa pelaaminen, se tarjoaa sekä haasteita että rentoutumista pitkän päivän päätteeksi."
             }
