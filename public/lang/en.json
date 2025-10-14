@@ -361,6 +361,20 @@
                 "type": "IoT"
             },
             {
+                "name": "KNX",
+                "icons": [
+                    "/media/images/knx.png"
+                ],
+                "type": "IoT"
+            },
+            {
+                "name": "DALI",
+                "icons": [
+                    "/media/images/dali.png"
+                ],
+                "type": "IoT"
+            },
+            {
                 "name": "Data Processing",
                 "icons": [
                     "/media/images/coding.png"
@@ -370,9 +384,7 @@
             {
                 "name": "Electrical Engineering",
                 "icons": [
-                    "/media/images/electrician.png",
-                    "/media/images/dali.png",
-                    "/media/images/knx.png"
+                    "/media/images/electrician.png"
                 ],
                 "type": "Experience"
             },

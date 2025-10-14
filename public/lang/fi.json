@@ -361,6 +361,20 @@
                 "type": "IoT"
             },
             {
+                "name": "KNX",
+                "icons": [
+                    "/media/images/z-wave.png"
+                ],
+                "type": "IoT"
+            },
+            {
+                "name": "DALI",
+                "icons": [
+                    "/media/images/z-wave.png"
+                ],
+                "type": "IoT"
+            },
+            {
                 "name": "Tietojenkäsittely",
                 "icons": [
                     "/media/images/coding.png"
@@ -370,9 +384,7 @@
             {
                 "name": "Sähkötekniikka",
                 "icons": [
-                    "/media/images/electrician.png",
-                    "/media/images/dali.png",
-                    "/media/images/knx.png"
+                    "/media/images/electrician.png"
                 ],
                 "type": "Kokemus"
             },
