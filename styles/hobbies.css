@@ -23,7 +23,7 @@
     width: 100%;
 }
 
-/* === hobbie Grid === */
+/* === Grid === */
 .hobbie-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
@@ -33,28 +33,12 @@
     justify-items: center;
 }
 
-
 .hobbie-card {
     text-align: center;
-    transition: transform 0.3s ease;
-}
-
-.hobbie-card img:hover {
-    box-shadow: 0 0 20px #ff4646;
-    transform: translateY(-4px);
-}
-
-
-.hobbie-card h3 {
-    color: #ffffff;
-    font-size: 1.8rem;
-    font-weight: 500;
-    margin-bottom: 0.5rem;
-    text-transform: capitalize;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .hobbie-card img {
-
     width: 100%;
     max-width: 400px;
     aspect-ratio: 1 / 1;
@@ -62,8 +46,26 @@
     object-fit: cover;
     border: 3px solid #ff4646;
     box-shadow: 0 0 20px rgba(255, 70, 70, 0.3);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+}
 
+.hobbie-card img:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 0 25px #ff4646;
+}
+
+/* ✅ Active (selected) card style */
+.hobbie-card.active img {
+    border-color: #ffffff;
+    box-shadow: 0 0 25px #ffffff;
+}
+
+.hobbie-card h3 {
+    color: #ffffff;
+    font-size: 1.8rem;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+    text-transform: capitalize;
 }
 
 .hobbie-text-expanded {
@@ -76,7 +78,7 @@
     transition: all 0.3s ease;
 }
 
-
+/* === Responsive === */
 @media (max-width: 768px) {
     .hobbie-card img {
         width: 120px;
