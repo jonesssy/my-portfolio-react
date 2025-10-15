@@ -464,25 +464,25 @@
                 "hobbie": "Brazilian Jiu-Jitsu",
                 "imgSrc": "/media/images/bjj.png",
                 "alt": "bjj",
-                "text": "Aloitin Brazilian jiu-jitsun hyvinvointini ja terveyteni tukemiseksi. Se kuormittaa koko kehoa sopivasti ja tarjoaa mahdollisuuden irrottautua arjesta. Se myös auttaa minua pysymään savuttomana, päätös jota en kadu sekuntiakaan! Olen tällä hetkellä sinisen vyön tasolla ja osallistun kilpailuihin aina kun siihen on mahdollisuus."
+                "text": "Aloitin brasilialaisen jiujitsun parantaakseni terveyttäni ja hyvinvointiani. Laji haastaa koko kehoa ja kirkastaa mielen. Olen sinisellä vyöllä ja kilpailen aina kun mahdollista."
             },
             {
                 "hobbie": "Musiikki",
                 "imgSrc": "/media/images/music.png",
                 "alt": "music",
-                "text": "Olen tehnyt musiikkia harrastelijatasolla 16-vuotiaasta lähtien. EDM, rap ja tällä hetkellä metal ovat esimerkkejä genreistä, joita tuotan tai opettelen tuottamaan. Aloitin kitaran soiton, koska olen aina halunnut soittaa soitinta. Kirjoitan myös sanoituksia. Kuuntelen luonnollisesti paljon musiikkia, kaikenlaista klassisesta pehmeästä musiikista aina tummaan death metaliin asti. Käyn yleensä keikoilla talvella ja vietän suurimman osan kesästä musiikkifestivaaleilla."
+                "text": "Olen tehnyt musiikkia 16-vuotiaasta lähtien, tuottaen EDM:ää, rappia ja nykyään metallia. Soitan kitaraa, kirjoitan sanoituksia ja kuuntelen kaikkea klassisesta musiikista death metaliin. Talvet kuluvat keikoilla ja kesät festareilla."
             },
             {
                 "hobbie": "Kalastus",
                 "imgSrc": "/media/images/fishing.png",
                 "alt": "fishing",
-                "text": "Suomalaiset kesät ovat lyhyitä, joten niistä pitää ottaa kaikki irti! Kalastan mökillä ja useimmiten toivon saavani hauen. Nautin sekä kalasta että koiristani, joten tämä harrastus ei kaipaa enempää perusteluja. Ja kun kalaa ei tule, pääsee nauttimaan raikkaasta ilmasta ja kauniista maisemista."
+                "text": "Suomen kesät ovat lyhyitä, joten niistä on otettava kaikki irti! Kalastan mökillä, yleensä haukea. Rakastan kalaruokia (niin myös koirani!), ja vaikka saalista ei aina tule, rauha ja maisemat tekevät siitä silti sen arvoista."
             },
             {
                 "hobbie": "Pelaaminen",
                 "imgSrc": "/media/images/gaming.png",
                 "alt": "gaming",
-                "text": "Pelaaminen on ollut pitkään intohimoni. Nautin sekä nopeatempoisesta toiminnasta että harkitusta strategiasta mielialastani riippuen. Titanfall 1 & 2 ruokkivat rakkauttani liikkumiseen ja tarkkuuteen, kun taas Factorio ja Kingdoms & Castles antavat mahdollisuuden rentoutua luovuuden ja huolellisen suunnittelun kautta. Diablo 2 ja 4 tyydyttävät haluani klassisiin loot-pohjaisiin seikkailuihin, ja Payday-sarja tuo esiin yhteistyö- ja taktisen puolen. Olipa kyseessä yksin tai kavereiden kanssa pelaaminen, se tarjoaa sekä haasteita että rentoutumista pitkän päivän päätteeksi."
+                "text": "Pelaaminen on ollut pitkään intohimoni. Vaihtelen toiminnan ja strategian välillä — nopeatempoisia FPS-pelejä, kaupunginrakennusta ja automaatiota luovuuden tueksi, sekä aarteenmetsästystä tylsyyttä vastaan. Yksin tai kavereiden kanssa, pelaaminen on tapani rentoutua ja ladata akkuja."
             }
         ]
     },
@@ -553,6 +553,10 @@
                     {
                         "src": "/media/images/android.png",
                         "alt": "android"
+                    },
+                    {
+                        "src": "/media/images/googlecloud.png",
+                        "alt": "google cloud"
                     }
                 ]
             },
