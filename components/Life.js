@@ -6,7 +6,7 @@ const images = [
 ];
 
 export default function Life() {
-    const { content } = useLanguage();
+    const { lang, content } = useLanguage();
     const lifeContent = content.life || {};
     const lifeParagraphs = lifeContent.paragraphs || [];
 
@@ -16,6 +16,10 @@ export default function Life() {
     const toggleParagraph = (index) => {
         setOpenIndex(openIndex === index ? null : index);
     };
+
+    // 🗣️ Language-based button labels
+    const readMoreLabel = lang === "fi" ? "Lue lisää" : "Read more";
+    const readLessLabel = lang === "fi" ? "Lue vähemmän" : "Read less";
 
     return (
         <section className="life-section">
@@ -45,7 +49,7 @@ export default function Life() {
                                         className="read-more-btn"
                                         onClick={() => toggleParagraph(i)}
                                     >
-                                        {isOpen ? "Read less" : "Read more"}
+                                        {isOpen ? readLessLabel : readMoreLabel}
                                     </button>
                                 )}
                             </p>
