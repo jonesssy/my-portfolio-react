@@ -154,6 +154,13 @@
                 "type": "Framework"
             },
             {
+                "name": "Next.js",
+                "icons": [
+                    "/media/images/nextjs.png"
+                ],
+                "type": "Framework"
+            },
+            {
                 "name": "MySQL",
                 "icons": [
                     "/media/images/mysql-2.png"
@@ -164,6 +171,13 @@
                 "name": "MongoDB",
                 "icons": [
                     "/media/images/mongodb.png"
+                ],
+                "type": "Database"
+            },
+            {
+                "name": "Microsoft SQL Server",
+                "icons": [
+                    "/media/images/mssql.png"
                 ],
                 "type": "Database"
             },
@@ -392,6 +406,13 @@
                 "type": "Experience"
             },
             {
+                "name": "Sergeant",
+                "icons": [
+                    "/media/images/sergeant.png"
+                ],
+                "type": "Experience"
+            },
+            {
                 "name": "SCRUM",
                 "icons": [
                     "/media/images/scrum.png"
@@ -401,7 +422,6 @@
             {
                 "name": "Leadership",
                 "icons": [
-                    "/media/images/sergeant.png",
                     "/media/images/leadership.png"
                 ],
                 "type": "Soft Skill"
@@ -605,10 +625,6 @@
                         "alt": "uipath"
                     },
                     {
-                        "src": "/media/images/visual-studio.png",
-                        "alt": "visual studio"
-                    },
-                    {
                         "src": "/media/images/mysql-2.png",
                         "alt": "mysql"
                     }
@@ -648,6 +664,10 @@
                     {
                         "src": "/media/images/vercel.svg",
                         "alt": "vercel"
+                    },
+                    {
+                        "src": "/media/images/nextjs.png",
+                        "alt": "next.js"
                     }
                 ]
             },
